@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,ProductCost
+P001,Electronics_Audio_Product_1,Electronics,Audio,77.3,50.55
+P002,Electronics_Computers_Product_2,Electronics,Computers,830.65,542.22
+P003,Clothing_Men_Product_3,Clothing,Men,1417.26,570.79
+P004,Automotive_Accessories_Product_4,Automotive,Accessories,130.29,77.04
+P005,Automotive_Fluids_Product_5,Automotive,Fluids,980.82,394.27
+P006,Toys_Educational_Product_6,Toys,Educational,43.28,26.69
+P007,Sports_Exercise_Product_7,Sports,Exercise,1009.4,615.09
+P008,Toys_Action Figures_Product_8,Toys,Action Figures,222.95,95.62
+P009,Furniture_Living Room_Product_9,Furniture,Living Room,391.93,218.67
+P010,Beauty_Hair_Product_10,Beauty,Hair,1591.91,674.5
+P011,Toys_Outdoor Toys_Product_11,Toys,Outdoor Toys,1134.34,790.71
+P012,Clothing_Kids_Product_12,Clothing,Kids,1371.23,897.28
+P013,Electronics_Computers_Product_13,Electronics,Computers,816.49,418.98
+P014,Automotive_Parts_Product_14,Automotive,Parts,1277.12,780.13
+P015,Home_Garden_Product_15,Home,Garden,1692.2,1004.27
+P016,Beauty_Tools_Product_16,Beauty,Tools,1954.88,1353.07
+P017,Electronics_Phones_Product_17,Electronics,Phones,430.71,284.46
+P018,Automotive_Accessories_Product_18,Automotive,Accessories,102.65,43.35
+P019,Sports_Camping_Product_19,Sports,Camping,1131.37,463.72
+P020,Beauty_Skincare_Product_20,Beauty,Skincare,1923.31,1108.04
+P021,Toys_Educational_Product_21,Toys,Educational,605.55,344.67
+P022,Toys_Puzzles_Product_22,Toys,Puzzles,1794.08,896.18
+P023,Furniture_Kids_Product_23,Furniture,Kids,1451.08,798.44
+P024,Beauty_Skincare_Product_24,Beauty,Skincare,204.38,95.99
+P025,Home_Decor_Product_25,Home,Decor,1214.28,709.33
+P026,Toys_Games_Product_26,Toys,Games,68.95,33.23
+P027,Automotive_Interior_Product_27,Automotive,Interior,463.99,262.58
+P028,Toys_Outdoor Toys_Product_28,Toys,Outdoor Toys,379.61,218.57
+P029,Toys_Educational_Product_29,Toys,Educational,1546.6,755.69
+P030,Clothing_Sports Wear_Product_30,Clothing,Sports Wear,156.27,75.07
+P031,Toys_Puzzles_Product_31,Toys,Puzzles,1569.93,700.63
+P032,Toys_Games_Product_32,Toys,Games,727.78,311.09
+P033,Sports_Fitness_Product_33,Sports,Fitness,726.23,349.27
+P034,Furniture_Office_Product_34,Furniture,Office,382.9,204.72
+P035,Toys_Educational_Product_35,Toys,Educational,62.25,31.51
+P036,Home_Tools_Product_36,Home,Tools,1200.1,596.84
+P037,Toys_Educational_Product_37,Toys,Educational,590.77,305.04
+P038,Home_Lighting_Product_38,Home,Lighting,1803.25,1210.99
+P039,Clothing_Shoes_Product_39,Clothing,Shoes,1046.99,634.05
+P040,Furniture_Living Room_Product_40,Furniture,Living Room,545.14,261.95
+P041,Furniture_Office_Product_41,Furniture,Office,342.73,165.47
+P042,Sports_Fitness_Product_42,Sports,Fitness,1567.5,796.82
+P043,Clothing_Sports Wear_Product_43,Clothing,Sports Wear,1253.81,724.88
+P044,Clothing_Accessories_Product_44,Clothing,Accessories,222.87,109.52
+P045,Toys_Games_Product_45,Toys,Games,1684.8,865.93
+P046,Beauty_Fragrance_Product_46,Beauty,Fragrance,676.12,435.86
+P047,Furniture_Bedroom_Product_47,Furniture,Bedroom,648.11,443.43
+P048,Clothing_Accessories_Product_48,Clothing,Accessories,635.21,437.9
+P049,Beauty_Hair_Product_49,Beauty,Hair,1472.39,868.52
+P050,Clothing_Kids_Product_50,Clothing,Kids,758.34,489.09
+P051,Toys_Games_Product_51,Toys,Games,236.63,134.68
+P052,Furniture_Kids_Product_52,Furniture,Kids,1537.55,627.44
+P053,Automotive_Fluids_Product_53,Automotive,Fluids,427.19,273.1
+P054,Home_Garden_Product_54,Home,Garden,1349.22,596.02
+P055,Sports_Outdoor_Product_55,Sports,Outdoor,512.83,228.85
+P056,Toys_Outdoor Toys_Product_56,Toys,Outdoor Toys,157.18,109.59
+P057,Automotive_Exterior_Product_57,Automotive,Exterior,807.59,445.78
+P058,Toys_Dolls_Product_58,Toys,Dolls,83.15,57.42
+P059,Home_Kitchen_Product_59,Home,Kitchen,1540.21,919.94
+P060,Beauty_Makeup_Product_60,Beauty,Makeup,1297.52,536.25
+P061,Toys_Games_Product_61,Toys,Games,1931.77,1022.17
+P062,Electronics_Computers_Product_62,Electronics,Computers,524.88,290.37
+P063,Clothing_Accessories_Product_63,Clothing,Accessories,754.49,406.61
+P064,Furniture_Bedroom_Product_64,Furniture,Bedroom,1995.42,1087.17
+P065,Sports_Fitness_Product_65,Sports,Fitness,1841.88,784.19
+P066,Furniture_Bedroom_Product_66,Furniture,Bedroom,630.65,338.41
+P067,Clothing_Shoes_Product_67,Clothing,Shoes,971.01,527.11
+P068,Automotive_Fluids_Product_68,Automotive,Fluids,1396.55,692.23
+P069,Sports_Exercise_Product_69,Sports,Exercise,1622.26,704.91
+P070,Beauty_Bath_Product_70,Beauty,Bath,227.62,145.68
+P071,Clothing_Shoes_Product_71,Clothing,Shoes,357.15,160.02
+P072,Toys_Outdoor Toys_Product_72,Toys,Outdoor Toys,471.38,245.83
+P073,Furniture_Living Room_Product_73,Furniture,Living Room,1284.54,680.34
+P074,Electronics_Cameras_Product_74,Electronics,Cameras,1232.06,565.76
+P075,Toys_Outdoor Toys_Product_75,Toys,Outdoor Toys,18.85,8.75
+P076,Sports_Cycling_Product_76,Sports,Cycling,1619.36,678.14
+P077,Home_Tools_Product_77,Home,Tools,382.04,190.18
+P078,Automotive_Parts_Product_78,Automotive,Parts,532.07,350.52
+P079,Beauty_Tools_Product_79,Beauty,Tools,783.38,405.61
+P080,Home_Decor_Product_80,Home,Decor,710.44,381.76
+P081,Furniture_Kids_Product_81,Furniture,Kids,1414.91,692.22
+P082,Home_Lighting_Product_82,Home,Lighting,276.55,120.4
+P083,Sports_Exercise_Product_83,Sports,Exercise,374.25,227.56
+P084,Toys_Outdoor Toys_Product_84,Toys,Outdoor Toys,1196.88,685.14
+P085,Toys_Action Figures_Product_85,Toys,Action Figures,978.46,549.13
+P086,Furniture_Outdoor_Product_86,Furniture,Outdoor,342.05,166.46
+P087,Furniture_Bedroom_Product_87,Furniture,Bedroom,1685.54,987.43
+P088,Beauty_Skincare_Product_88,Beauty,Skincare,974.36,446.78
+P089,Toys_Dolls_Product_89,Toys,Dolls,1015.81,557.16
+P090,Automotive_Interior_Product_90,Automotive,Interior,1423.17,758.77
+P091,Furniture_Office_Product_91,Furniture,Office,1135.13,725.08
+P092,Clothing_Kids_Product_92,Clothing,Kids,75.05,35.08
+P093,Sports_Outdoor_Product_93,Sports,Outdoor,1563.66,890.81
+P094,Automotive_Exterior_Product_94,Automotive,Exterior,1026.49,586.96
+P095,Sports_Camping_Product_95,Sports,Camping,1648.32,840.74
+P096,Electronics_Cameras_Product_96,Electronics,Cameras,888.31,413.56
+P097,Toys_Educational_Product_97,Toys,Educational,1474.61,879.02
+P098,Clothing_Kids_Product_98,Clothing,Kids,1750.86,717.27
+P099,Sports_Team Sports_Product_99,Sports,Team Sports,1725.77,735.34
+P100,Home_Appliances_Product_100,Home,Appliances,427.65,265.69
+P101,Beauty_Bath_Product_101,Beauty,Bath,1224.41,647.04
+P102,Furniture_Living Room_Product_102,Furniture,Living Room,1628.91,1045.16
+P103,Beauty_Tools_Product_103,Beauty,Tools,569.35,319.76
+P104,Beauty_Bath_Product_104,Beauty,Bath,592.33,338.71
+P105,Home_Appliances_Product_105,Home,Appliances,1925.91,1224.32
+P106,Electronics_Accessories_Product_106,Electronics,Accessories,1735.41,760.22
+P107,Furniture_Living Room_Product_107,Furniture,Living Room,301.01,149.49
+P108,Clothing_Sports Wear_Product_108,Clothing,Sports Wear,791.46,350.34
+P109,Sports_Cycling_Product_109,Sports,Cycling,834.3,446.85
+P110,Home_Garden_Product_110,Home,Garden,1036.06,500.9
+P111,Beauty_Fragrance_Product_111,Beauty,Fragrance,1901.0,947.05
+P112,Electronics_Cameras_Product_112,Electronics,Cameras,195.34,135.11
+P113,Beauty_Skincare_Product_113,Beauty,Skincare,1593.39,827.47
+P114,Toys_Action Figures_Product_114,Toys,Action Figures,994.47,494.11
+P115,Sports_Team Sports_Product_115,Sports,Team Sports,1099.14,482.72
+P116,Automotive_Accessories_Product_116,Automotive,Accessories,1789.36,1124.93
+P117,Electronics_Computers_Product_117,Electronics,Computers,1256.09,817.73
+P118,Electronics_Computers_Product_118,Electronics,Computers,1859.56,831.96
+P119,Automotive_Parts_Product_119,Automotive,Parts,1983.75,1048.09
+P120,Furniture_Kids_Product_120,Furniture,Kids,610.7,404.48
+P121,Sports_Exercise_Product_121,Sports,Exercise,1312.62,623.65
+P122,Beauty_Bath_Product_122,Beauty,Bath,1808.55,813.23
+P123,Toys_Puzzles_Product_123,Toys,Puzzles,617.95,376.85
+P124,Clothing_Accessories_Product_124,Clothing,Accessories,1314.41,803.25
+P125,Electronics_Phones_Product_125,Electronics,Phones,958.84,421.71
+P126,Clothing_Shoes_Product_126,Clothing,Shoes,1363.16,549.06
+P127,Beauty_Skincare_Product_127,Beauty,Skincare,1976.42,1040.97
+P128,Furniture_Storage_Product_128,Furniture,Storage,150.94,77.72
+P129,Home_Kitchen_Product_129,Home,Kitchen,633.56,420.87
+P130,Furniture_Storage_Product_130,Furniture,Storage,1549.18,969.71
+P131,Furniture_Kids_Product_131,Furniture,Kids,1985.94,879.49
+P132,Electronics_Audio_Product_132,Electronics,Audio,1303.53,693.52
+P133,Clothing_Sports Wear_Product_133,Clothing,Sports Wear,1499.04,1013.3
+P134,Automotive_Tools_Product_134,Automotive,Tools,182.5,78.5
+P135,Home_Tools_Product_135,Home,Tools,1462.71,739.34
+P136,Toys_Games_Product_136,Toys,Games,1584.23,751.46
+P137,Home_Appliances_Product_137,Home,Appliances,1111.25,644.53
+P138,Sports_Cycling_Product_138,Sports,Cycling,63.37,41.45
+P139,Sports_Outdoor_Product_139,Sports,Outdoor,1040.31,575.14
+P140,Toys_Games_Product_140,Toys,Games,1295.87,823.06
+P141,Clothing_Accessories_Product_141,Clothing,Accessories,777.9,367.42
+P142,Home_Tools_Product_142,Home,Tools,1778.55,717.86
+P143,Beauty_Hair_Product_143,Beauty,Hair,272.64,179.46
+P144,Toys_Games_Product_144,Toys,Games,1097.24,495.77
+P145,Automotive_Parts_Product_145,Automotive,Parts,43.2,18.16
+P146,Sports_Outdoor_Product_146,Sports,Outdoor,89.25,37.32
+P147,Toys_Dolls_Product_147,Toys,Dolls,580.1,356.06
+P148,Toys_Outdoor Toys_Product_148,Toys,Outdoor Toys,1406.59,597.42
+P149,Furniture_Bedroom_Product_149,Furniture,Bedroom,176.35,74.72
+P150,Clothing_Women_Product_150,Clothing,Women,1077.41,557.26
+P151,Home_Decor_Product_151,Home,Decor,1400.36,866.81
+P152,Clothing_Men_Product_152,Clothing,Men,496.5,336.32
+P153,Home_Garden_Product_153,Home,Garden,1228.46,511.66
+P154,Furniture_Office_Product_154,Furniture,Office,35.19,15.52
+P155,Electronics_Phones_Product_155,Electronics,Phones,997.85,502.93
+P156,Sports_Outdoor_Product_156,Sports,Outdoor,750.01,468.71
+P157,Sports_Cycling_Product_157,Sports,Cycling,1773.96,1120.13
+P158,Electronics_Accessories_Product_158,Electronics,Accessories,1616.13,778.32
+P159,Home_Decor_Product_159,Home,Decor,1427.51,817.96
+P160,Home_Garden_Product_160,Home,Garden,915.83,465.28
+P161,Automotive_Exterior_Product_161,Automotive,Exterior,342.08,152.98
+P162,Home_Tools_Product_162,Home,Tools,1351.49,587.36
+P163,Electronics_Computers_Product_163,Electronics,Computers,1718.78,693.85
+P164,Electronics_TVs_Product_164,Electronics,TVs,734.3,496.44
+P165,Furniture_Office_Product_165,Furniture,Office,1110.19,748.47
+P166,Toys_Action Figures_Product_166,Toys,Action Figures,650.38,341.37
+P167,Beauty_Hair_Product_167,Beauty,Hair,1653.72,945.04
+P168,Home_Tools_Product_168,Home,Tools,1349.91,561.29
+P169,Clothing_Shoes_Product_169,Clothing,Shoes,1963.0,1347.06
+P170,Home_Garden_Product_170,Home,Garden,1733.39,1095.6
+P171,Sports_Team Sports_Product_171,Sports,Team Sports,181.9,97.68
+P172,Beauty_Makeup_Product_172,Beauty,Makeup,590.26,375.02
+P173,Clothing_Accessories_Product_173,Clothing,Accessories,742.85,513.72
+P174,Clothing_Sports Wear_Product_174,Clothing,Sports Wear,1801.87,1131.84
+P175,Clothing_Women_Product_175,Clothing,Women,22.68,11.86
+P176,Clothing_Shoes_Product_176,Clothing,Shoes,699.37,455.9
+P177,Electronics_Accessories_Product_177,Electronics,Accessories,12.9,7.7
+P178,Sports_Exercise_Product_178,Sports,Exercise,418.33,290.71
+P179,Toys_Outdoor Toys_Product_179,Toys,Outdoor Toys,1922.75,1330.1
+P180,Furniture_Kids_Product_180,Furniture,Kids,566.84,234.2
+P181,Clothing_Shoes_Product_181,Clothing,Shoes,831.97,556.32
+P182,Automotive_Fluids_Product_182,Automotive,Fluids,178.95,76.71
+P183,Furniture_Kids_Product_183,Furniture,Kids,1641.72,693.54
+P184,Electronics_TVs_Product_184,Electronics,TVs,1328.25,583.38
+P185,Sports_Team Sports_Product_185,Sports,Team Sports,1703.31,1154.52
+P186,Toys_Puzzles_Product_186,Toys,Puzzles,1665.47,829.2
+P187,Automotive_Accessories_Product_187,Automotive,Accessories,474.88,324.37
+P188,Furniture_Outdoor_Product_188,Furniture,Outdoor,226.85,97.93
+P189,Automotive_Interior_Product_189,Automotive,Interior,634.92,276.97
+P190,Beauty_Makeup_Product_190,Beauty,Makeup,909.3,490.12
+P191,Home_Kitchen_Product_191,Home,Kitchen,323.64,196.07
+P192,Electronics_Phones_Product_192,Electronics,Phones,1673.48,833.96
+P193,Home_Lighting_Product_193,Home,Lighting,503.95,255.36
+P194,Electronics_Cameras_Product_194,Electronics,Cameras,604.68,390.64
+P195,Furniture_Office_Product_195,Furniture,Office,1904.66,1250.18
+P196,Clothing_Men_Product_196,Clothing,Men,929.46,595.94
+P197,Furniture_Office_Product_197,Furniture,Office,33.78,21.93
+P198,Clothing_Women_Product_198,Clothing,Women,404.27,210.29
+P199,Home_Tools_Product_199,Home,Tools,1176.37,794.32
+P200,Home_Kitchen_Product_200,Home,Kitchen,1994.34,916.05
+P201,Automotive_Tools_Product_201,Automotive,Tools,193.03,126.28
+P202,Beauty_Skincare_Product_202,Beauty,Skincare,94.96,51.12
+P203,Furniture_Outdoor_Product_203,Furniture,Outdoor,871.97,538.29
+P204,Automotive_Parts_Product_204,Automotive,Parts,771.62,407.41
+P205,Beauty_Makeup_Product_205,Beauty,Makeup,1817.52,876.94
+P206,Automotive_Tools_Product_206,Automotive,Tools,78.94,46.24
+P207,Clothing_Sports Wear_Product_207,Clothing,Sports Wear,597.25,312.72
+P208,Automotive_Parts_Product_208,Automotive,Parts,184.56,95.03
+P209,Toys_Action Figures_Product_209,Toys,Action Figures,1288.87,823.79
+P210,Clothing_Sports Wear_Product_210,Clothing,Sports Wear,1988.22,1119.56
+P211,Electronics_TVs_Product_211,Electronics,TVs,1566.0,795.11
+P212,Automotive_Accessories_Product_212,Automotive,Accessories,1826.22,1005.73
+P213,Toys_Games_Product_213,Toys,Games,367.82,182.31
+P214,Clothing_Men_Product_214,Clothing,Men,1792.56,1135.7
+P215,Electronics_TVs_Product_215,Electronics,TVs,1063.56,670.1
+P216,Clothing_Women_Product_216,Clothing,Women,209.26,124.94
+P217,Sports_Camping_Product_217,Sports,Camping,1634.4,1103.51
+P218,Electronics_Phones_Product_218,Electronics,Phones,1155.62,802.92
+P219,Toys_Games_Product_219,Toys,Games,1871.05,1304.99
+P220,Furniture_Living Room_Product_220,Furniture,Living Room,480.73,238.15
+P221,Beauty_Tools_Product_221,Beauty,Tools,66.12,40.34
+P222,Furniture_Outdoor_Product_222,Furniture,Outdoor,1897.24,1235.12
+P223,Automotive_Exterior_Product_223,Automotive,Exterior,625.01,341.96
+P224,Home_Kitchen_Product_224,Home,Kitchen,472.91,220.21
+P225,Automotive_Parts_Product_225,Automotive,Parts,670.14,391.52
+P226,Furniture_Bedroom_Product_226,Furniture,Bedroom,1436.7,970.68
+P227,Beauty_Skincare_Product_227,Beauty,Skincare,53.6,30.87
+P228,Furniture_Office_Product_228,Furniture,Office,1694.49,1115.31
+P229,Home_Decor_Product_229,Home,Decor,1412.02,845.29
+P230,Home_Decor_Product_230,Home,Decor,610.5,269.19
+P231,Furniture_Kids_Product_231,Furniture,Kids,1897.89,1210.01
+P232,Automotive_Fluids_Product_232,Automotive,Fluids,641.38,392.62
+P233,Beauty_Makeup_Product_233,Beauty,Makeup,1334.4,859.8
+P234,Toys_Games_Product_234,Toys,Games,1470.64,718.19
+P235,Furniture_Kids_Product_235,Furniture,Kids,13.57,8.29
+P236,Toys_Dolls_Product_236,Toys,Dolls,74.43,43.22
+P237,Clothing_Sports Wear_Product_237,Clothing,Sports Wear,1135.43,773.24
+P238,Furniture_Bedroom_Product_238,Furniture,Bedroom,1493.22,703.9
+P239,Beauty_Makeup_Product_239,Beauty,Makeup,1276.0,879.07
+P240,Beauty_Fragrance_Product_240,Beauty,Fragrance,32.67,15.12
+P241,Home_Decor_Product_241,Home,Decor,520.74,225.17
+P242,Electronics_Computers_Product_242,Electronics,Computers,778.0,482.19
+P243,Furniture_Storage_Product_243,Furniture,Storage,991.22,509.1
+P244,Toys_Educational_Product_244,Toys,Educational,1659.32,1056.35
+P245,Clothing_Women_Product_245,Clothing,Women,908.05,580.93
+P246,Electronics_Accessories_Product_246,Electronics,Accessories,49.95,23.89
+P247,Home_Kitchen_Product_247,Home,Kitchen,690.19,459.93
+P248,Furniture_Kids_Product_248,Furniture,Kids,159.24,108.69
+P249,Home_Decor_Product_249,Home,Decor,1192.11,696.3
+P250,Automotive_Fluids_Product_250,Automotive,Fluids,71.67,48.93
+P251,Furniture_Outdoor_Product_251,Furniture,Outdoor,1780.6,796.16
+P252,Home_Decor_Product_252,Home,Decor,419.04,191.5
+P253,Sports_Cycling_Product_253,Sports,Cycling,570.22,268.72
+P254,Electronics_TVs_Product_254,Electronics,TVs,1147.81,748.32
+P255,Furniture_Office_Product_255,Furniture,Office,728.04,384.61
+P256,Sports_Cycling_Product_256,Sports,Cycling,1253.92,682.26
+P257,Home_Kitchen_Product_257,Home,Kitchen,421.83,249.49
+P258,Home_Garden_Product_258,Home,Garden,1689.09,831.89
+P259,Toys_Outdoor Toys_Product_259,Toys,Outdoor Toys,983.29,588.31
+P260,Home_Lighting_Product_260,Home,Lighting,1092.8,497.73
+P261,Toys_Games_Product_261,Toys,Games,381.29,157.62
+P262,Automotive_Interior_Product_262,Automotive,Interior,534.16,347.8
+P263,Electronics_Phones_Product_263,Electronics,Phones,1506.94,904.53
+P264,Home_Lighting_Product_264,Home,Lighting,694.13,390.4
+P265,Clothing_Shoes_Product_265,Clothing,Shoes,131.35,67.79
+P266,Toys_Dolls_Product_266,Toys,Dolls,1377.26,937.79
+P267,Clothing_Accessories_Product_267,Clothing,Accessories,604.71,313.51
+P268,Electronics_Audio_Product_268,Electronics,Audio,1146.72,636.48
+P269,Furniture_Office_Product_269,Furniture,Office,1899.01,1015.42
+P270,Furniture_Living Room_Product_270,Furniture,Living Room,1618.83,708.81
+P271,Toys_Educational_Product_271,Toys,Educational,1976.67,1048.86
+P272,Furniture_Outdoor_Product_272,Furniture,Outdoor,523.18,352.23
+P273,Home_Kitchen_Product_273,Home,Kitchen,782.31,406.18
+P274,Beauty_Hair_Product_274,Beauty,Hair,1044.17,704.97
+P275,Electronics_Cameras_Product_275,Electronics,Cameras,1249.88,695.89
+P276,Toys_Educational_Product_276,Toys,Educational,834.73,371.0
+P277,Home_Kitchen_Product_277,Home,Kitchen,1129.73,486.12
+P278,Sports_Camping_Product_278,Sports,Camping,1761.46,1168.5
+P279,Sports_Fitness_Product_279,Sports,Fitness,1313.02,750.53
+P280,Automotive_Parts_Product_280,Automotive,Parts,352.67,183.7
+P281,Toys_Educational_Product_281,Toys,Educational,797.62,529.37
+P282,Clothing_Men_Product_282,Clothing,Men,1494.03,1010.34
+P283,Beauty_Skincare_Product_283,Beauty,Skincare,682.34,435.4
+P284,Sports_Team Sports_Product_284,Sports,Team Sports,1687.25,1109.32
+P285,Home_Appliances_Product_285,Home,Appliances,277.42,192.05
+P286,Automotive_Accessories_Product_286,Automotive,Accessories,546.14,286.74
+P287,Home_Appliances_Product_287,Home,Appliances,889.01,599.22
+P288,Toys_Puzzles_Product_288,Toys,Puzzles,974.07,540.56
+P289,Beauty_Skincare_Product_289,Beauty,Skincare,1035.38,463.53
+P290,Sports_Cycling_Product_290,Sports,Cycling,1018.51,448.85
+P291,Electronics_Phones_Product_291,Electronics,Phones,393.59,255.79
+P292,Electronics_Phones_Product_292,Electronics,Phones,75.8,31.47
+P293,Beauty_Bath_Product_293,Beauty,Bath,406.22,207.38
+P294,Automotive_Exterior_Product_294,Automotive,Exterior,799.91,541.48
+P295,Electronics_Phones_Product_295,Electronics,Phones,751.2,434.35
+P296,Furniture_Storage_Product_296,Furniture,Storage,1177.88,594.74
+P297,Furniture_Bedroom_Product_297,Furniture,Bedroom,1500.42,910.24
+P298,Sports_Exercise_Product_298,Sports,Exercise,779.26,349.79
+P299,Clothing_Women_Product_299,Clothing,Women,1298.28,783.26
+P300,Sports_Cycling_Product_300,Sports,Cycling,824.91,334.93
+P301,Electronics_TVs_Product_301,Electronics,TVs,1823.91,1083.79
+P302,Electronics_Phones_Product_302,Electronics,Phones,512.25,328.62
+P303,Sports_Cycling_Product_303,Sports,Cycling,1934.37,1146.74
+P304,Toys_Outdoor Toys_Product_304,Toys,Outdoor Toys,1704.65,916.59
+P305,Clothing_Accessories_Product_305,Clothing,Accessories,611.26,339.98
+P306,Toys_Dolls_Product_306,Toys,Dolls,213.59,118.21
+P307,Beauty_Tools_Product_307,Beauty,Tools,1298.2,756.48
+P308,Sports_Cycling_Product_308,Sports,Cycling,225.12,94.36
+P309,Sports_Cycling_Product_309,Sports,Cycling,657.01,317.38
+P310,Sports_Outdoor_Product_310,Sports,Outdoor,308.35,194.15
+P311,Electronics_Audio_Product_311,Electronics,Audio,814.15,403.72
+P312,Furniture_Kids_Product_312,Furniture,Kids,60.65,33.31
+P313,Sports_Team Sports_Product_313,Sports,Team Sports,1814.74,946.17
+P314,Electronics_Audio_Product_314,Electronics,Audio,1419.05,811.15
+P315,Clothing_Kids_Product_315,Clothing,Kids,1455.82,679.44
+P316,Automotive_Fluids_Product_316,Automotive,Fluids,723.4,354.51
+P317,Furniture_Kids_Product_317,Furniture,Kids,1754.21,797.01
+P318,Home_Garden_Product_318,Home,Garden,264.6,126.37
+P319,Furniture_Kids_Product_319,Furniture,Kids,1800.18,1073.5
+P320,Clothing_Kids_Product_320,Clothing,Kids,454.41,300.56
+P321,Toys_Games_Product_321,Toys,Games,749.64,431.55
+P322,Automotive_Parts_Product_322,Automotive,Parts,946.36,624.52
+P323,Home_Garden_Product_323,Home,Garden,1779.95,979.23
+P324,Toys_Dolls_Product_324,Toys,Dolls,603.72,251.28
+P325,Furniture_Living Room_Product_325,Furniture,Living Room,1984.76,997.94
+P326,Automotive_Tools_Product_326,Automotive,Tools,639.59,393.16
+P327,Home_Garden_Product_327,Home,Garden,671.92,467.65
+P328,Beauty_Bath_Product_328,Beauty,Bath,125.44,67.19
+P329,Clothing_Women_Product_329,Clothing,Women,1156.79,517.7
+P330,Home_Appliances_Product_330,Home,Appliances,1232.8,727.41
+P331,Toys_Outdoor Toys_Product_331,Toys,Outdoor Toys,1930.99,994.45
+P332,Electronics_Audio_Product_332,Electronics,Audio,406.82,208.26
+P333,Electronics_Accessories_Product_333,Electronics,Accessories,1516.12,847.98
+P334,Electronics_Cameras_Product_334,Electronics,Cameras,18.2,11.29
+P335,Clothing_Sports Wear_Product_335,Clothing,Sports Wear,1755.19,866.41
+P336,Home_Garden_Product_336,Home,Garden,1011.63,497.55
+P337,Home_Kitchen_Product_337,Home,Kitchen,603.41,294.01
+P338,Beauty_Fragrance_Product_338,Beauty,Fragrance,1777.06,1241.53
+P339,Beauty_Fragrance_Product_339,Beauty,Fragrance,724.9,330.94
+P340,Toys_Educational_Product_340,Toys,Educational,464.54,287.16
+P341,Furniture_Living Room_Product_341,Furniture,Living Room,1470.8,848.52
+P342,Furniture_Office_Product_342,Furniture,Office,739.51,440.13
+P343,Electronics_TVs_Product_343,Electronics,TVs,1754.31,836.34
+P344,Electronics_Audio_Product_344,Electronics,Audio,1989.4,1190.84
+P345,Electronics_Computers_Product_345,Electronics,Computers,1382.59,725.9
+P346,Toys_Educational_Product_346,Toys,Educational,1099.08,596.05
+P347,Furniture_Living Room_Product_347,Furniture,Living Room,1393.42,820.85
+P348,Sports_Fitness_Product_348,Sports,Fitness,1326.7,794.35
+P349,Sports_Camping_Product_349,Sports,Camping,1215.2,536.08
+P350,Home_Tools_Product_350,Home,Tools,1440.33,627.0
+P351,Home_Kitchen_Product_351,Home,Kitchen,1000.49,582.99
+P352,Sports_Camping_Product_352,Sports,Camping,1946.5,987.61
+P353,Toys_Games_Product_353,Toys,Games,329.13,185.77
+P354,Clothing_Sports Wear_Product_354,Clothing,Sports Wear,1866.91,931.93
+P355,Electronics_Computers_Product_355,Electronics,Computers,1346.54,904.96
+P356,Automotive_Tools_Product_356,Automotive,Tools,1899.39,1203.94
+P357,Home_Lighting_Product_357,Home,Lighting,1449.91,973.52
+P358,Clothing_Accessories_Product_358,Clothing,Accessories,1977.44,966.59
+P359,Automotive_Parts_Product_359,Automotive,Parts,208.61,94.38
+P360,Electronics_Accessories_Product_360,Electronics,Accessories,726.82,438.29
+P361,Toys_Puzzles_Product_361,Toys,Puzzles,240.63,157.7
+P362,Electronics_Computers_Product_362,Electronics,Computers,1705.47,1021.59
+P363,Furniture_Bedroom_Product_363,Furniture,Bedroom,721.47,383.33
+P364,Sports_Cycling_Product_364,Sports,Cycling,194.96,125.65
+P365,Furniture_Office_Product_365,Furniture,Office,807.54,556.15
+P366,Sports_Fitness_Product_366,Sports,Fitness,1382.9,751.57
+P367,Toys_Puzzles_Product_367,Toys,Puzzles,1773.38,798.08
+P368,Furniture_Kids_Product_368,Furniture,Kids,1455.55,1010.84
+P369,Furniture_Office_Product_369,Furniture,Office,837.89,483.65
+P370,Automotive_Tools_Product_370,Automotive,Tools,1226.52,777.31
+P371,Electronics_Cameras_Product_371,Electronics,Cameras,1761.09,1088.68
+P372,Furniture_Storage_Product_372,Furniture,Storage,1841.58,799.03
+P373,Toys_Outdoor Toys_Product_373,Toys,Outdoor Toys,101.47,48.55
+P374,Beauty_Skincare_Product_374,Beauty,Skincare,1412.08,852.02
+P375,Clothing_Sports Wear_Product_375,Clothing,Sports Wear,1747.55,971.17
+P376,Home_Garden_Product_376,Home,Garden,1326.8,629.66
+P377,Beauty_Bath_Product_377,Beauty,Bath,1355.82,698.88
+P378,Electronics_Computers_Product_378,Electronics,Computers,1290.35,576.89
+P379,Automotive_Interior_Product_379,Automotive,Interior,1740.13,735.13
+P380,Automotive_Accessories_Product_380,Automotive,Accessories,489.36,338.17
+P381,Electronics_Audio_Product_381,Electronics,Audio,453.18,268.73
+P382,Toys_Action Figures_Product_382,Toys,Action Figures,166.86,88.98
+P383,Automotive_Parts_Product_383,Automotive,Parts,1714.6,915.8
+P384,Home_Garden_Product_384,Home,Garden,1493.02,605.17
+P385,Toys_Outdoor Toys_Product_385,Toys,Outdoor Toys,81.3,45.91
+P386,Home_Tools_Product_386,Home,Tools,1926.7,1139.18
+P387,Clothing_Sports Wear_Product_387,Clothing,Sports Wear,1346.22,922.3
+P388,Beauty_Skincare_Product_388,Beauty,Skincare,1635.0,1068.14
+P389,Beauty_Tools_Product_389,Beauty,Tools,1537.15,891.52
+P390,Beauty_Bath_Product_390,Beauty,Bath,910.53,390.83
+P391,Clothing_Men_Product_391,Clothing,Men,689.29,447.33
+P392,Sports_Camping_Product_392,Sports,Camping,1048.74,640.39
+P393,Electronics_Phones_Product_393,Electronics,Phones,989.91,640.03
+P394,Toys_Educational_Product_394,Toys,Educational,516.03,236.74
+P395,Home_Garden_Product_395,Home,Garden,439.01,284.2
+P396,Clothing_Sports Wear_Product_396,Clothing,Sports Wear,682.48,428.01
+P397,Electronics_Cameras_Product_397,Electronics,Cameras,1676.55,966.77
+P398,Automotive_Interior_Product_398,Automotive,Interior,1320.32,906.87
+P399,Furniture_Storage_Product_399,Furniture,Storage,18.62,11.56
+P400,Toys_Dolls_Product_400,Toys,Dolls,971.02,536.49
+P401,Furniture_Kids_Product_401,Furniture,Kids,1161.31,719.02
+P402,Furniture_Office_Product_402,Furniture,Office,780.93,453.07
+P403,Beauty_Tools_Product_403,Beauty,Tools,1763.96,927.14
+P404,Clothing_Kids_Product_404,Clothing,Kids,801.75,403.17
+P405,Sports_Fitness_Product_405,Sports,Fitness,1611.54,711.42
+P406,Sports_Cycling_Product_406,Sports,Cycling,1100.12,543.65
+P407,Clothing_Women_Product_407,Clothing,Women,427.32,262.51
+P408,Beauty_Bath_Product_408,Beauty,Bath,274.01,168.0
+P409,Furniture_Outdoor_Product_409,Furniture,Outdoor,1089.55,643.99
+P410,Home_Decor_Product_410,Home,Decor,1128.93,648.96
+P411,Toys_Puzzles_Product_411,Toys,Puzzles,1498.25,977.48
+P412,Sports_Fitness_Product_412,Sports,Fitness,1618.52,901.22
+P413,Electronics_TVs_Product_413,Electronics,TVs,299.19,179.84
+P414,Clothing_Kids_Product_414,Clothing,Kids,1502.86,673.7
+P415,Sports_Cycling_Product_415,Sports,Cycling,508.61,331.52
+P416,Sports_Outdoor_Product_416,Sports,Outdoor,1509.64,618.49
+P417,Automotive_Parts_Product_417,Automotive,Parts,1236.05,744.92
+P418,Clothing_Sports Wear_Product_418,Clothing,Sports Wear,1297.76,670.51
+P419,Sports_Cycling_Product_419,Sports,Cycling,1332.33,903.25
+P420,Toys_Outdoor Toys_Product_420,Toys,Outdoor Toys,1913.83,1325.8
+P421,Beauty_Tools_Product_421,Beauty,Tools,117.06,72.94
+P422,Clothing_Shoes_Product_422,Clothing,Shoes,1739.0,1144.49
+P423,Automotive_Tools_Product_423,Automotive,Tools,1823.85,1115.08
+P424,Beauty_Tools_Product_424,Beauty,Tools,1097.75,637.81
+P425,Clothing_Kids_Product_425,Clothing,Kids,903.13,627.71
+P426,Home_Appliances_Product_426,Home,Appliances,1925.32,1194.71
+P427,Home_Garden_Product_427,Home,Garden,90.85,43.95
+P428,Sports_Outdoor_Product_428,Sports,Outdoor,330.24,215.91
+P429,Electronics_Accessories_Product_429,Electronics,Accessories,937.99,639.0
+P430,Electronics_Phones_Product_430,Electronics,Phones,1857.96,1075.88
+P431,Sports_Fitness_Product_431,Sports,Fitness,1581.91,893.86
+P432,Home_Lighting_Product_432,Home,Lighting,642.53,299.41
+P433,Furniture_Outdoor_Product_433,Furniture,Outdoor,145.66,80.34
+P434,Toys_Dolls_Product_434,Toys,Dolls,1078.69,461.23
+P435,Clothing_Women_Product_435,Clothing,Women,1330.03,664.11
+P436,Sports_Outdoor_Product_436,Sports,Outdoor,1901.1,1113.06
+P437,Automotive_Exterior_Product_437,Automotive,Exterior,1649.13,1145.06
+P438,Electronics_Computers_Product_438,Electronics,Computers,1341.18,715.79
+P439,Clothing_Men_Product_439,Clothing,Men,1368.27,679.05
+P440,Home_Garden_Product_440,Home,Garden,520.61,321.32
+P441,Electronics_Audio_Product_441,Electronics,Audio,1645.99,843.55
+P442,Automotive_Interior_Product_442,Automotive,Interior,97.25,65.11
+P443,Clothing_Kids_Product_443,Clothing,Kids,1032.64,706.8
+P444,Furniture_Outdoor_Product_444,Furniture,Outdoor,1071.07,629.87
+P445,Clothing_Sports Wear_Product_445,Clothing,Sports Wear,1262.72,585.84
+P446,Toys_Educational_Product_446,Toys,Educational,419.09,271.83
+P447,Toys_Puzzles_Product_447,Toys,Puzzles,1635.33,689.51
+P448,Furniture_Office_Product_448,Furniture,Office,923.85,461.48
+P449,Home_Kitchen_Product_449,Home,Kitchen,117.98,75.3
+P450,Home_Tools_Product_450,Home,Tools,1645.01,1107.58
+P451,Toys_Outdoor Toys_Product_451,Toys,Outdoor Toys,907.73,473.23
+P452,Beauty_Skincare_Product_452,Beauty,Skincare,785.1,341.9
+P453,Electronics_Cameras_Product_453,Electronics,Cameras,1443.36,604.73
+P454,Electronics_Cameras_Product_454,Electronics,Cameras,1698.01,861.42
+P455,Home_Decor_Product_455,Home,Decor,1575.9,772.83
+P456,Home_Decor_Product_456,Home,Decor,1532.89,814.43
+P457,Toys_Puzzles_Product_457,Toys,Puzzles,71.32,31.87
+P458,Clothing_Women_Product_458,Clothing,Women,1496.03,956.01
+P459,Sports_Cycling_Product_459,Sports,Cycling,296.7,178.97
+P460,Beauty_Skincare_Product_460,Beauty,Skincare,1111.5,629.69
+P461,Home_Kitchen_Product_461,Home,Kitchen,20.0,11.58
+P462,Home_Decor_Product_462,Home,Decor,428.0,266.4
+P463,Beauty_Makeup_Product_463,Beauty,Makeup,831.17,493.53
+P464,Furniture_Living Room_Product_464,Furniture,Living Room,376.14,220.07
+P465,Sports_Outdoor_Product_465,Sports,Outdoor,238.09,143.16
+P466,Electronics_Audio_Product_466,Electronics,Audio,927.91,524.18
+P467,Sports_Cycling_Product_467,Sports,Cycling,144.04,61.86
+P468,Automotive_Accessories_Product_468,Automotive,Accessories,720.7,433.42
+P469,Clothing_Men_Product_469,Clothing,Men,577.41,243.06
+P470,Clothing_Kids_Product_470,Clothing,Kids,976.85,486.96
+P471,Sports_Cycling_Product_471,Sports,Cycling,1172.49,667.93
+P472,Beauty_Hair_Product_472,Beauty,Hair,1917.72,864.11
+P473,Beauty_Makeup_Product_473,Beauty,Makeup,1573.45,965.56
+P474,Toys_Games_Product_474,Toys,Games,1681.81,740.49
+P475,Beauty_Fragrance_Product_475,Beauty,Fragrance,931.06,472.63
+P476,Sports_Fitness_Product_476,Sports,Fitness,1107.82,501.54
+P477,Home_Decor_Product_477,Home,Decor,1718.83,759.72
+P478,Clothing_Kids_Product_478,Clothing,Kids,1469.74,864.19
+P479,Home_Kitchen_Product_479,Home,Kitchen,1700.67,1002.52
+P480,Toys_Dolls_Product_480,Toys,Dolls,433.38,178.12
+P481,Sports_Camping_Product_481,Sports,Camping,1789.02,1005.26
+P482,Furniture_Bedroom_Product_482,Furniture,Bedroom,791.06,527.98
+P483,Sports_Outdoor_Product_483,Sports,Outdoor,934.75,517.03
+P484,Toys_Games_Product_484,Toys,Games,1009.3,604.37
+P485,Furniture_Outdoor_Product_485,Furniture,Outdoor,289.33,129.55
+P486,Furniture_Kids_Product_486,Furniture,Kids,1466.68,999.91
+P487,Electronics_Phones_Product_487,Electronics,Phones,1525.32,716.18
+P488,Sports_Team Sports_Product_488,Sports,Team Sports,475.69,285.69
+P489,Beauty_Fragrance_Product_489,Beauty,Fragrance,944.64,506.7
+P490,Electronics_Computers_Product_490,Electronics,Computers,1961.36,975.23
+P491,Sports_Cycling_Product_491,Sports,Cycling,533.99,300.8
+P492,Furniture_Storage_Product_492,Furniture,Storage,1310.8,667.97
+P493,Home_Tools_Product_493,Home,Tools,510.65,353.27
+P494,Clothing_Shoes_Product_494,Clothing,Shoes,817.62,527.5
+P495,Beauty_Fragrance_Product_495,Beauty,Fragrance,1587.38,1057.44
+P496,Electronics_Audio_Product_496,Electronics,Audio,1765.24,939.05
+P497,Clothing_Men_Product_497,Clothing,Men,1033.93,500.67
+P498,Furniture_Living Room_Product_498,Furniture,Living Room,323.13,187.61
+P499,Home_Lighting_Product_499,Home,Lighting,468.38,301.33
+P500,Home_Garden_Product_500,Home,Garden,1353.7,736.02

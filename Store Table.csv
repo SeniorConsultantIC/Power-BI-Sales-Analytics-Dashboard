@@ -1,0 +1,501 @@
+StoreID,StoreName,Region,City,StoreType,OpeningDate
+S001,Store_Plaza 1,North,Dallas,Standard,2017-07-03
+S002,Store_Mall 2,South,Las Vegas,Flagship,2021-08-15
+S003,Store_Market 3,North,New York,Flagship,2017-06-14
+S004,Store_Mall 4,North,Las Vegas,Standard,2023-01-11
+S005,Store_Hub 5,Southeast,San Diego,Express,2021-08-10
+S006,Store_Center 6,North,Philadelphia,Express,2018-10-25
+S007,Store_Center 7,East,San Antonio,Compact,2016-02-23
+S008,Store_Plaza 8,Southeast,Houston,Compact,2018-11-09
+S009,Store_Hub 9,Central,Los Angeles,Express,2021-01-05
+S010,Store_Plaza 10,Southeast,Chicago,Superstore,2018-04-15
+S011,Store_Hub 11,Northeast,San Antonio,Flagship,2015-07-07
+S012,Store_Mall 12,Central,Chicago,Standard,2016-02-18
+S013,Store_Market 13,Central,Atlanta,Compact,2016-10-28
+S014,Store_Center 14,Northeast,San Antonio,Compact,2022-11-14
+S015,Store_Plaza 15,East,Las Vegas,Standard,2016-10-31
+S016,Store_Market 16,Southeast,Dallas,Superstore,2017-06-18
+S017,Store_Center 17,North,San Diego,Flagship,2018-07-16
+S018,Store_Market 18,Central,Chicago,Standard,2021-05-12
+S019,Store_Center 19,West,Detroit,Express,2022-03-18
+S020,Store_Market 20,East,Dallas,Standard,2017-10-07
+S021,Store_Hub 21,Central,Miami,Superstore,2019-06-24
+S022,Store_Center 22,West,Phoenix,Superstore,2020-07-14
+S023,Store_Plaza 23,North,Houston,Standard,2022-01-14
+S024,Store_Mall 24,Southeast,Chicago,Express,2019-04-13
+S025,Store_Hub 25,Midwest,Portland,Compact,2021-03-16
+S026,Store_Plaza 26,South,Las Vegas,Compact,2022-03-10
+S027,Store_Center 27,South,Austin,Express,2016-10-09
+S028,Store_Market 28,North,Dallas,Superstore,2017-01-01
+S029,Store_Hub 29,South,Austin,Superstore,2021-10-30
+S030,Store_Mall 30,East,Seattle,Standard,2021-01-18
+S031,Store_Hub 31,North,Boston,Express,2015-03-21
+S032,Store_Plaza 32,Northeast,Austin,Standard,2015-08-26
+S033,Store_Mall 33,South,Chicago,Express,2015-10-11
+S034,Store_Hub 34,East,Phoenix,Express,2021-03-01
+S035,Store_Mall 35,Central,Portland,Superstore,2019-09-30
+S036,Store_Mall 36,West,Austin,Express,2022-07-14
+S037,Store_Center 37,Midwest,Portland,Express,2016-05-10
+S038,Store_Mall 38,West,Chicago,Compact,2015-03-28
+S039,Store_Hub 39,West,San Diego,Flagship,2015-10-18
+S040,Store_Plaza 40,West,Chicago,Flagship,2018-09-15
+S041,Store_Plaza 41,West,Dallas,Express,2017-05-27
+S042,Store_Hub 42,East,Detroit,Standard,2020-04-21
+S043,Store_Market 43,West,Houston,Flagship,2022-05-23
+S044,Store_Market 44,Northeast,Miami,Express,2020-03-27
+S045,Store_Plaza 45,South,Los Angeles,Express,2023-03-02
+S046,Store_Center 46,South,San Diego,Standard,2017-02-18
+S047,Store_Hub 47,Midwest,Phoenix,Express,2017-01-21
+S048,Store_Center 48,Midwest,San Diego,Flagship,2019-12-21
+S049,Store_Hub 49,South,Los Angeles,Superstore,2015-03-02
+S050,Store_Plaza 50,West,Philadelphia,Express,2020-06-12
+S051,Store_Market 51,West,Denver,Flagship,2016-11-05
+S052,Store_Market 52,North,Denver,Compact,2020-02-07
+S053,Store_Center 53,Southeast,Las Vegas,Express,2016-09-26
+S054,Store_Mall 54,Central,San Antonio,Flagship,2021-06-30
+S055,Store_Hub 55,North,Boston,Flagship,2015-07-25
+S056,Store_Hub 56,Midwest,Portland,Superstore,2016-10-06
+S057,Store_Plaza 57,South,Philadelphia,Flagship,2021-09-03
+S058,Store_Plaza 58,West,Denver,Flagship,2021-05-22
+S059,Store_Mall 59,North,Chicago,Express,2022-05-16
+S060,Store_Hub 60,Northeast,Dallas,Standard,2022-07-06
+S061,Store_Center 61,West,Dallas,Express,2016-06-20
+S062,Store_Center 62,Midwest,Boston,Flagship,2015-02-08
+S063,Store_Market 63,South,Chicago,Superstore,2017-05-23
+S064,Store_Hub 64,Central,Phoenix,Compact,2015-10-09
+S065,Store_Mall 65,Northeast,Austin,Standard,2019-11-30
+S066,Store_Hub 66,Central,Portland,Flagship,2022-06-28
+S067,Store_Hub 67,Central,Houston,Standard,2017-12-19
+S068,Store_Plaza 68,South,Las Vegas,Standard,2018-01-20
+S069,Store_Center 69,West,Boston,Standard,2022-09-16
+S070,Store_Center 70,Midwest,Dallas,Flagship,2016-01-14
+S071,Store_Market 71,Central,Los Angeles,Flagship,2018-09-28
+S072,Store_Mall 72,Central,Philadelphia,Express,2021-03-09
+S073,Store_Market 73,North,Houston,Flagship,2022-10-01
+S074,Store_Mall 74,North,Seattle,Superstore,2021-03-13
+S075,Store_Mall 75,Southeast,Phoenix,Flagship,2018-06-16
+S076,Store_Center 76,North,Seattle,Standard,2022-08-25
+S077,Store_Mall 77,South,Seattle,Superstore,2019-07-23
+S078,Store_Hub 78,East,San Diego,Standard,2016-12-26
+S079,Store_Market 79,North,Philadelphia,Compact,2019-08-14
+S080,Store_Mall 80,Central,Philadelphia,Flagship,2019-04-16
+S081,Store_Plaza 81,Midwest,San Diego,Standard,2020-02-29
+S082,Store_Center 82,Central,San Diego,Standard,2015-04-07
+S083,Store_Mall 83,Southeast,Boston,Compact,2015-10-12
+S084,Store_Center 84,Northeast,Portland,Express,2022-08-15
+S085,Store_Hub 85,Northeast,New York,Flagship,2017-12-05
+S086,Store_Mall 86,Central,Los Angeles,Flagship,2021-09-09
+S087,Store_Market 87,Northeast,Boston,Express,2021-10-19
+S088,Store_Hub 88,South,Denver,Superstore,2017-02-17
+S089,Store_Center 89,North,Miami,Flagship,2020-10-30
+S090,Store_Hub 90,West,Seattle,Express,2015-10-14
+S091,Store_Center 91,Northeast,Houston,Compact,2020-09-08
+S092,Store_Center 92,Southeast,Boston,Express,2022-10-26
+S093,Store_Center 93,East,San Antonio,Express,2022-06-16
+S094,Store_Market 94,East,Austin,Express,2021-02-22
+S095,Store_Plaza 95,Central,Austin,Standard,2019-10-27
+S096,Store_Hub 96,Northeast,Atlanta,Express,2019-12-17
+S097,Store_Mall 97,Midwest,Philadelphia,Flagship,2018-03-08
+S098,Store_Hub 98,Northeast,Chicago,Standard,2022-07-18
+S099,Store_Center 99,West,San Antonio,Standard,2015-04-11
+S100,Store_Plaza 100,West,Detroit,Superstore,2015-10-26
+S101,Store_Market 101,Southeast,San Antonio,Express,2020-07-17
+S102,Store_Market 102,West,Phoenix,Flagship,2016-03-12
+S103,Store_Market 103,West,Philadelphia,Superstore,2020-03-17
+S104,Store_Plaza 104,West,Houston,Express,2016-06-30
+S105,Store_Market 105,Northeast,Atlanta,Superstore,2023-01-25
+S106,Store_Hub 106,Southeast,Las Vegas,Express,2016-10-13
+S107,Store_Market 107,Midwest,Dallas,Standard,2022-02-24
+S108,Store_Center 108,Midwest,San Diego,Compact,2019-12-07
+S109,Store_Plaza 109,Central,San Diego,Compact,2018-10-07
+S110,Store_Center 110,South,Phoenix,Standard,2017-08-05
+S111,Store_Market 111,East,San Antonio,Flagship,2019-08-27
+S112,Store_Market 112,Northeast,Las Vegas,Express,2019-08-31
+S113,Store_Plaza 113,West,Miami,Express,2021-07-20
+S114,Store_Plaza 114,Southeast,Detroit,Flagship,2018-12-11
+S115,Store_Center 115,Southeast,Miami,Superstore,2021-02-14
+S116,Store_Hub 116,West,Detroit,Standard,2018-01-22
+S117,Store_Market 117,Midwest,New York,Express,2018-10-08
+S118,Store_Market 118,East,Atlanta,Standard,2021-12-23
+S119,Store_Hub 119,North,Denver,Superstore,2021-04-30
+S120,Store_Plaza 120,South,Miami,Standard,2020-03-06
+S121,Store_Mall 121,North,Dallas,Express,2018-09-02
+S122,Store_Mall 122,Midwest,Boston,Compact,2019-04-02
+S123,Store_Center 123,Southeast,Dallas,Flagship,2020-04-10
+S124,Store_Plaza 124,North,Seattle,Standard,2022-04-16
+S125,Store_Plaza 125,North,New York,Standard,2017-03-27
+S126,Store_Plaza 126,East,San Diego,Standard,2020-04-23
+S127,Store_Plaza 127,West,Atlanta,Compact,2019-02-19
+S128,Store_Mall 128,South,Philadelphia,Compact,2016-03-18
+S129,Store_Hub 129,North,Austin,Superstore,2022-08-06
+S130,Store_Market 130,Southeast,San Antonio,Flagship,2021-08-22
+S131,Store_Mall 131,South,Austin,Superstore,2016-05-10
+S132,Store_Hub 132,North,Seattle,Superstore,2019-10-21
+S133,Store_Center 133,South,Portland,Compact,2015-02-21
+S134,Store_Market 134,Midwest,Houston,Express,2019-01-23
+S135,Store_Market 135,East,Miami,Standard,2020-11-07
+S136,Store_Center 136,Midwest,Atlanta,Express,2023-03-14
+S137,Store_Hub 137,Central,Boston,Standard,2015-12-21
+S138,Store_Center 138,Midwest,San Diego,Express,2021-05-23
+S139,Store_Hub 139,Southeast,Boston,Flagship,2020-07-17
+S140,Store_Center 140,East,Detroit,Standard,2018-12-24
+S141,Store_Center 141,Northeast,Dallas,Superstore,2022-11-12
+S142,Store_Center 142,North,Portland,Standard,2015-12-17
+S143,Store_Mall 143,Southeast,Detroit,Superstore,2017-09-11
+S144,Store_Market 144,Midwest,Atlanta,Flagship,2016-01-17
+S145,Store_Center 145,West,Denver,Standard,2018-06-08
+S146,Store_Hub 146,Northeast,Detroit,Superstore,2020-12-14
+S147,Store_Center 147,Southeast,Las Vegas,Compact,2018-12-12
+S148,Store_Market 148,Central,Austin,Compact,2017-08-02
+S149,Store_Plaza 149,West,Boston,Flagship,2021-01-03
+S150,Store_Mall 150,West,San Antonio,Express,2018-02-06
+S151,Store_Hub 151,Central,Houston,Standard,2018-04-28
+S152,Store_Mall 152,Northeast,Philadelphia,Compact,2015-02-27
+S153,Store_Hub 153,East,Dallas,Flagship,2015-08-12
+S154,Store_Hub 154,Central,Phoenix,Express,2016-02-25
+S155,Store_Plaza 155,Central,Detroit,Express,2019-12-10
+S156,Store_Center 156,East,Los Angeles,Compact,2020-05-10
+S157,Store_Plaza 157,South,Denver,Express,2015-10-31
+S158,Store_Hub 158,North,Phoenix,Standard,2021-04-24
+S159,Store_Center 159,South,San Diego,Flagship,2021-04-04
+S160,Store_Market 160,West,Portland,Express,2020-01-20
+S161,Store_Market 161,Central,Miami,Compact,2021-05-18
+S162,Store_Hub 162,North,Houston,Standard,2022-01-06
+S163,Store_Mall 163,Central,Chicago,Standard,2017-09-09
+S164,Store_Mall 164,South,Philadelphia,Flagship,2019-08-01
+S165,Store_Market 165,Midwest,Austin,Flagship,2017-08-06
+S166,Store_Center 166,Central,Atlanta,Flagship,2022-09-16
+S167,Store_Mall 167,Central,San Antonio,Express,2016-04-15
+S168,Store_Hub 168,West,Phoenix,Compact,2016-08-05
+S169,Store_Plaza 169,North,Philadelphia,Compact,2021-09-03
+S170,Store_Hub 170,Central,Atlanta,Flagship,2020-04-03
+S171,Store_Center 171,Southeast,Dallas,Superstore,2021-01-20
+S172,Store_Market 172,Midwest,Chicago,Superstore,2015-06-13
+S173,Store_Market 173,Northeast,Dallas,Flagship,2016-01-10
+S174,Store_Mall 174,North,Dallas,Superstore,2015-06-14
+S175,Store_Mall 175,Midwest,Portland,Express,2018-02-13
+S176,Store_Mall 176,Southeast,Detroit,Flagship,2020-04-09
+S177,Store_Center 177,Southeast,Boston,Compact,2022-07-07
+S178,Store_Plaza 178,East,Boston,Express,2022-10-12
+S179,Store_Market 179,Central,Denver,Superstore,2015-05-31
+S180,Store_Market 180,South,Boston,Compact,2018-08-17
+S181,Store_Plaza 181,Southeast,Portland,Flagship,2022-05-17
+S182,Store_Hub 182,Midwest,Miami,Flagship,2017-02-07
+S183,Store_Hub 183,Northeast,Detroit,Express,2015-07-31
+S184,Store_Mall 184,Central,Las Vegas,Standard,2018-03-25
+S185,Store_Market 185,Midwest,Houston,Flagship,2022-01-24
+S186,Store_Hub 186,West,Philadelphia,Compact,2021-03-06
+S187,Store_Plaza 187,Southeast,Chicago,Standard,2016-04-09
+S188,Store_Market 188,South,Phoenix,Express,2023-01-14
+S189,Store_Center 189,Central,Miami,Express,2020-04-18
+S190,Store_Mall 190,Midwest,Las Vegas,Standard,2019-04-21
+S191,Store_Mall 191,East,Chicago,Compact,2019-08-27
+S192,Store_Center 192,Central,New York,Compact,2023-02-21
+S193,Store_Center 193,Midwest,Phoenix,Express,2021-01-15
+S194,Store_Market 194,Northeast,Boston,Superstore,2021-02-03
+S195,Store_Market 195,Midwest,Boston,Standard,2022-10-27
+S196,Store_Mall 196,Southeast,San Diego,Express,2015-06-28
+S197,Store_Center 197,Midwest,Denver,Express,2022-06-11
+S198,Store_Mall 198,Midwest,Los Angeles,Standard,2020-08-19
+S199,Store_Hub 199,Northeast,Houston,Express,2016-02-13
+S200,Store_Hub 200,Midwest,New York,Standard,2019-08-07
+S201,Store_Mall 201,South,Detroit,Compact,2018-10-18
+S202,Store_Hub 202,Southeast,Chicago,Compact,2022-07-25
+S203,Store_Hub 203,Southeast,Boston,Express,2021-01-25
+S204,Store_Plaza 204,South,San Diego,Compact,2017-07-20
+S205,Store_Plaza 205,Southeast,Houston,Flagship,2019-12-23
+S206,Store_Mall 206,Central,New York,Flagship,2018-08-21
+S207,Store_Plaza 207,Central,Seattle,Compact,2019-10-31
+S208,Store_Mall 208,West,Portland,Express,2021-05-07
+S209,Store_Mall 209,East,Philadelphia,Flagship,2021-11-01
+S210,Store_Market 210,West,Detroit,Superstore,2016-08-09
+S211,Store_Mall 211,Midwest,Dallas,Express,2017-11-11
+S212,Store_Plaza 212,Midwest,Austin,Superstore,2016-10-09
+S213,Store_Plaza 213,Midwest,Seattle,Superstore,2018-05-10
+S214,Store_Market 214,Central,Atlanta,Compact,2017-03-26
+S215,Store_Market 215,Midwest,Houston,Standard,2019-04-12
+S216,Store_Hub 216,Northeast,Austin,Compact,2015-03-31
+S217,Store_Market 217,Central,New York,Superstore,2022-09-10
+S218,Store_Plaza 218,Midwest,Austin,Standard,2021-10-22
+S219,Store_Center 219,West,San Antonio,Superstore,2017-10-23
+S220,Store_Mall 220,South,Los Angeles,Compact,2019-12-11
+S221,Store_Plaza 221,Northeast,Phoenix,Flagship,2018-04-23
+S222,Store_Center 222,Southeast,Philadelphia,Standard,2016-06-25
+S223,Store_Hub 223,Northeast,Portland,Superstore,2018-01-21
+S224,Store_Mall 224,Central,Detroit,Compact,2018-10-19
+S225,Store_Plaza 225,Midwest,Chicago,Standard,2017-07-13
+S226,Store_Market 226,Northeast,Chicago,Express,2015-02-27
+S227,Store_Center 227,South,Atlanta,Compact,2022-07-18
+S228,Store_Center 228,Southeast,Seattle,Flagship,2022-07-27
+S229,Store_Mall 229,Midwest,New York,Superstore,2021-04-18
+S230,Store_Center 230,West,Chicago,Express,2022-11-11
+S231,Store_Center 231,Southeast,Houston,Standard,2015-07-05
+S232,Store_Plaza 232,Central,Detroit,Flagship,2016-02-03
+S233,Store_Mall 233,East,Denver,Express,2019-02-28
+S234,Store_Hub 234,Southeast,Phoenix,Express,2022-05-06
+S235,Store_Plaza 235,Midwest,Miami,Compact,2015-05-15
+S236,Store_Center 236,West,Atlanta,Express,2017-08-25
+S237,Store_Center 237,South,Seattle,Superstore,2022-03-26
+S238,Store_Center 238,North,Denver,Compact,2017-02-16
+S239,Store_Plaza 239,Midwest,Chicago,Standard,2022-03-13
+S240,Store_Hub 240,North,Los Angeles,Compact,2017-09-24
+S241,Store_Mall 241,West,Chicago,Superstore,2017-04-28
+S242,Store_Hub 242,West,San Diego,Compact,2016-08-27
+S243,Store_Hub 243,North,Dallas,Standard,2016-06-16
+S244,Store_Hub 244,Central,Philadelphia,Flagship,2022-05-31
+S245,Store_Plaza 245,East,New York,Compact,2017-09-01
+S246,Store_Hub 246,Northeast,New York,Standard,2017-12-22
+S247,Store_Plaza 247,East,Miami,Superstore,2016-04-10
+S248,Store_Plaza 248,Midwest,Atlanta,Compact,2020-10-03
+S249,Store_Hub 249,South,Atlanta,Superstore,2017-06-26
+S250,Store_Hub 250,North,Portland,Compact,2020-02-20
+S251,Store_Plaza 251,North,Detroit,Express,2019-10-13
+S252,Store_Plaza 252,Midwest,Atlanta,Flagship,2015-11-27
+S253,Store_Center 253,East,Chicago,Standard,2018-01-31
+S254,Store_Hub 254,Northeast,Denver,Superstore,2020-12-13
+S255,Store_Center 255,Midwest,Portland,Superstore,2019-10-29
+S256,Store_Plaza 256,South,Las Vegas,Standard,2019-10-28
+S257,Store_Market 257,West,Miami,Compact,2020-02-01
+S258,Store_Market 258,Southeast,Houston,Compact,2019-10-15
+S259,Store_Center 259,Central,Seattle,Standard,2022-09-14
+S260,Store_Market 260,South,Chicago,Flagship,2016-01-17
+S261,Store_Market 261,South,Seattle,Standard,2021-03-28
+S262,Store_Plaza 262,Northeast,Houston,Express,2018-12-19
+S263,Store_Market 263,North,Austin,Superstore,2018-07-03
+S264,Store_Center 264,South,Portland,Standard,2016-09-25
+S265,Store_Market 265,West,Houston,Compact,2021-03-28
+S266,Store_Center 266,South,Dallas,Superstore,2017-07-15
+S267,Store_Market 267,North,Dallas,Flagship,2017-01-08
+S268,Store_Center 268,Central,Boston,Compact,2015-01-26
+S269,Store_Mall 269,East,Denver,Flagship,2016-08-04
+S270,Store_Plaza 270,South,Portland,Standard,2019-03-21
+S271,Store_Market 271,Midwest,Boston,Standard,2019-02-24
+S272,Store_Center 272,Northeast,Chicago,Flagship,2016-09-29
+S273,Store_Mall 273,North,Chicago,Compact,2019-12-20
+S274,Store_Market 274,Midwest,Atlanta,Express,2018-01-23
+S275,Store_Mall 275,South,Seattle,Express,2016-03-30
+S276,Store_Center 276,Midwest,Portland,Compact,2015-07-06
+S277,Store_Mall 277,Southeast,Los Angeles,Flagship,2017-04-17
+S278,Store_Center 278,West,Phoenix,Compact,2018-03-31
+S279,Store_Center 279,South,New York,Express,2019-10-30
+S280,Store_Mall 280,East,Denver,Superstore,2022-11-22
+S281,Store_Mall 281,Northeast,Chicago,Express,2015-06-23
+S282,Store_Market 282,North,Atlanta,Flagship,2018-07-06
+S283,Store_Hub 283,Southeast,Denver,Express,2018-03-31
+S284,Store_Plaza 284,Southeast,New York,Compact,2016-12-04
+S285,Store_Hub 285,Midwest,Seattle,Flagship,2019-11-24
+S286,Store_Plaza 286,West,Miami,Superstore,2019-06-29
+S287,Store_Hub 287,South,Denver,Compact,2018-10-22
+S288,Store_Mall 288,Northeast,Philadelphia,Flagship,2020-09-21
+S289,Store_Plaza 289,West,Seattle,Compact,2023-02-27
+S290,Store_Mall 290,West,Houston,Standard,2017-11-14
+S291,Store_Mall 291,East,Phoenix,Flagship,2016-12-26
+S292,Store_Market 292,Midwest,Atlanta,Superstore,2022-03-18
+S293,Store_Hub 293,Northeast,Boston,Standard,2019-12-07
+S294,Store_Plaza 294,Midwest,Atlanta,Compact,2018-01-30
+S295,Store_Hub 295,North,Seattle,Superstore,2015-10-31
+S296,Store_Center 296,Midwest,Atlanta,Flagship,2015-08-22
+S297,Store_Center 297,Central,Chicago,Flagship,2021-11-24
+S298,Store_Hub 298,Southeast,Atlanta,Superstore,2021-03-20
+S299,Store_Plaza 299,Midwest,San Antonio,Compact,2021-10-14
+S300,Store_Market 300,East,Los Angeles,Express,2016-02-28
+S301,Store_Center 301,South,Portland,Standard,2015-06-10
+S302,Store_Mall 302,Midwest,Atlanta,Superstore,2020-11-11
+S303,Store_Hub 303,East,Seattle,Compact,2018-03-04
+S304,Store_Market 304,Southeast,Boston,Superstore,2015-08-03
+S305,Store_Center 305,South,Boston,Flagship,2021-04-04
+S306,Store_Market 306,Central,Dallas,Superstore,2016-09-07
+S307,Store_Center 307,South,Phoenix,Compact,2018-06-24
+S308,Store_Market 308,East,Chicago,Compact,2021-04-08
+S309,Store_Market 309,Northeast,Phoenix,Superstore,2016-01-18
+S310,Store_Market 310,Northeast,New York,Compact,2018-06-19
+S311,Store_Mall 311,West,Boston,Express,2017-02-25
+S312,Store_Mall 312,East,Phoenix,Flagship,2018-04-26
+S313,Store_Plaza 313,North,Boston,Superstore,2016-06-20
+S314,Store_Hub 314,Southeast,Phoenix,Standard,2017-01-10
+S315,Store_Hub 315,East,Atlanta,Flagship,2019-08-10
+S316,Store_Center 316,West,Atlanta,Superstore,2018-03-13
+S317,Store_Market 317,West,Las Vegas,Standard,2018-06-21
+S318,Store_Market 318,West,Seattle,Superstore,2019-12-10
+S319,Store_Market 319,Central,Denver,Superstore,2020-11-30
+S320,Store_Market 320,East,San Antonio,Superstore,2016-07-20
+S321,Store_Center 321,North,Detroit,Compact,2021-03-21
+S322,Store_Plaza 322,South,Austin,Flagship,2016-10-18
+S323,Store_Center 323,Midwest,Portland,Standard,2019-11-27
+S324,Store_Plaza 324,West,Atlanta,Compact,2015-04-20
+S325,Store_Market 325,North,Denver,Superstore,2019-03-12
+S326,Store_Mall 326,Southeast,Chicago,Compact,2017-07-08
+S327,Store_Plaza 327,Northeast,Houston,Compact,2016-08-21
+S328,Store_Mall 328,North,Austin,Express,2022-10-22
+S329,Store_Mall 329,Midwest,Atlanta,Superstore,2015-01-22
+S330,Store_Plaza 330,North,Dallas,Standard,2016-09-04
+S331,Store_Hub 331,Southeast,Houston,Compact,2017-08-31
+S332,Store_Center 332,South,Los Angeles,Standard,2019-09-16
+S333,Store_Hub 333,Midwest,Chicago,Flagship,2020-08-09
+S334,Store_Hub 334,North,Portland,Superstore,2017-09-17
+S335,Store_Mall 335,Central,Miami,Flagship,2021-11-23
+S336,Store_Center 336,West,Miami,Standard,2022-06-14
+S337,Store_Plaza 337,Northeast,Chicago,Superstore,2021-02-06
+S338,Store_Hub 338,North,Denver,Express,2015-06-28
+S339,Store_Market 339,Northeast,Dallas,Flagship,2019-01-02
+S340,Store_Plaza 340,Northeast,San Diego,Flagship,2021-07-11
+S341,Store_Center 341,East,Los Angeles,Compact,2021-02-14
+S342,Store_Center 342,East,Atlanta,Express,2022-01-31
+S343,Store_Mall 343,East,Chicago,Express,2015-06-01
+S344,Store_Center 344,West,Los Angeles,Standard,2015-06-21
+S345,Store_Center 345,Central,Portland,Express,2021-02-02
+S346,Store_Market 346,Central,Los Angeles,Standard,2018-03-17
+S347,Store_Center 347,North,Boston,Compact,2016-05-24
+S348,Store_Center 348,Southeast,Denver,Express,2019-05-03
+S349,Store_Center 349,East,Detroit,Express,2019-02-13
+S350,Store_Hub 350,Central,Chicago,Express,2015-11-20
+S351,Store_Market 351,East,Las Vegas,Compact,2018-08-08
+S352,Store_Plaza 352,South,Boston,Compact,2018-06-09
+S353,Store_Market 353,Southeast,Philadelphia,Express,2018-12-10
+S354,Store_Market 354,North,Seattle,Superstore,2019-11-17
+S355,Store_Center 355,North,Chicago,Express,2019-01-28
+S356,Store_Hub 356,East,New York,Standard,2021-10-24
+S357,Store_Market 357,North,Phoenix,Flagship,2017-08-24
+S358,Store_Center 358,Northeast,Denver,Superstore,2015-05-13
+S359,Store_Hub 359,East,Atlanta,Compact,2019-03-04
+S360,Store_Market 360,South,Phoenix,Superstore,2019-02-12
+S361,Store_Market 361,Northeast,Dallas,Standard,2016-04-09
+S362,Store_Plaza 362,East,Detroit,Superstore,2019-05-05
+S363,Store_Hub 363,South,Dallas,Compact,2022-11-23
+S364,Store_Market 364,West,Austin,Express,2017-03-30
+S365,Store_Plaza 365,East,Chicago,Express,2016-12-08
+S366,Store_Market 366,South,Boston,Compact,2022-12-16
+S367,Store_Plaza 367,Central,Austin,Standard,2022-12-25
+S368,Store_Mall 368,Northeast,Portland,Standard,2016-05-12
+S369,Store_Mall 369,East,San Diego,Express,2015-04-18
+S370,Store_Center 370,Northeast,Atlanta,Superstore,2016-06-15
+S371,Store_Hub 371,South,Chicago,Compact,2019-06-19
+S372,Store_Market 372,Southeast,Miami,Superstore,2015-10-30
+S373,Store_Mall 373,Northeast,Chicago,Express,2020-03-23
+S374,Store_Hub 374,Northeast,Phoenix,Superstore,2022-03-05
+S375,Store_Hub 375,East,Phoenix,Express,2020-08-21
+S376,Store_Plaza 376,South,Portland,Standard,2018-05-30
+S377,Store_Mall 377,East,Boston,Standard,2018-11-18
+S378,Store_Hub 378,Central,Chicago,Compact,2017-03-15
+S379,Store_Hub 379,Central,Phoenix,Compact,2021-11-21
+S380,Store_Hub 380,South,Portland,Standard,2021-08-21
+S381,Store_Hub 381,East,Philadelphia,Superstore,2023-01-30
+S382,Store_Hub 382,Northeast,Los Angeles,Flagship,2015-11-29
+S383,Store_Plaza 383,Central,San Antonio,Superstore,2019-09-03
+S384,Store_Hub 384,North,Detroit,Superstore,2018-04-01
+S385,Store_Center 385,Midwest,San Diego,Express,2018-05-03
+S386,Store_Market 386,South,Los Angeles,Standard,2019-12-06
+S387,Store_Market 387,Midwest,Atlanta,Standard,2018-10-25
+S388,Store_Hub 388,East,Boston,Compact,2018-11-15
+S389,Store_Market 389,East,Seattle,Superstore,2021-04-19
+S390,Store_Plaza 390,Northeast,San Diego,Express,2016-05-16
+S391,Store_Center 391,Midwest,San Diego,Standard,2016-02-01
+S392,Store_Plaza 392,Central,Denver,Superstore,2019-09-09
+S393,Store_Mall 393,East,Boston,Superstore,2023-02-01
+S394,Store_Center 394,West,Philadelphia,Express,2020-10-09
+S395,Store_Market 395,Midwest,Austin,Express,2015-04-05
+S396,Store_Plaza 396,Southeast,Portland,Express,2017-09-13
+S397,Store_Mall 397,Northeast,Los Angeles,Flagship,2018-02-26
+S398,Store_Market 398,Midwest,Austin,Superstore,2015-02-03
+S399,Store_Plaza 399,Southeast,Phoenix,Compact,2023-02-27
+S400,Store_Center 400,Southeast,Seattle,Flagship,2019-06-29
+S401,Store_Plaza 401,West,Seattle,Superstore,2018-03-28
+S402,Store_Plaza 402,Southeast,Portland,Express,2021-03-02
+S403,Store_Center 403,South,Phoenix,Flagship,2019-06-02
+S404,Store_Center 404,Northeast,Las Vegas,Compact,2016-08-13
+S405,Store_Mall 405,Southeast,Portland,Flagship,2015-07-05
+S406,Store_Plaza 406,East,Boston,Express,2020-10-28
+S407,Store_Market 407,East,Portland,Standard,2018-09-05
+S408,Store_Hub 408,Northeast,Philadelphia,Express,2021-11-30
+S409,Store_Center 409,Northeast,Portland,Superstore,2020-12-20
+S410,Store_Market 410,Central,Detroit,Flagship,2019-02-17
+S411,Store_Center 411,South,Miami,Superstore,2018-06-14
+S412,Store_Plaza 412,Midwest,Dallas,Superstore,2021-06-23
+S413,Store_Mall 413,North,Detroit,Standard,2020-11-17
+S414,Store_Hub 414,Southeast,Phoenix,Standard,2015-05-10
+S415,Store_Hub 415,South,San Antonio,Flagship,2019-12-12
+S416,Store_Center 416,Southeast,Phoenix,Express,2022-09-29
+S417,Store_Mall 417,Southeast,Portland,Superstore,2020-04-15
+S418,Store_Plaza 418,East,Portland,Standard,2021-04-16
+S419,Store_Center 419,Midwest,Portland,Express,2018-07-09
+S420,Store_Mall 420,Midwest,Las Vegas,Compact,2021-02-15
+S421,Store_Center 421,Central,Detroit,Standard,2017-10-06
+S422,Store_Center 422,Central,San Diego,Compact,2018-03-29
+S423,Store_Mall 423,Midwest,Boston,Express,2018-11-29
+S424,Store_Hub 424,Central,Austin,Flagship,2021-06-06
+S425,Store_Hub 425,Southeast,Denver,Compact,2016-08-22
+S426,Store_Center 426,North,Austin,Flagship,2018-11-19
+S427,Store_Market 427,Central,Detroit,Standard,2017-04-07
+S428,Store_Hub 428,Central,Las Vegas,Compact,2016-07-16
+S429,Store_Plaza 429,West,San Diego,Flagship,2022-07-06
+S430,Store_Hub 430,West,San Diego,Flagship,2016-02-15
+S431,Store_Market 431,Northeast,Detroit,Flagship,2022-08-22
+S432,Store_Mall 432,North,Las Vegas,Standard,2019-07-25
+S433,Store_Market 433,Midwest,San Antonio,Compact,2018-08-08
+S434,Store_Center 434,North,Chicago,Superstore,2017-08-09
+S435,Store_Hub 435,North,Philadelphia,Express,2016-12-21
+S436,Store_Plaza 436,Southeast,Detroit,Standard,2018-03-31
+S437,Store_Plaza 437,North,Austin,Superstore,2021-10-04
+S438,Store_Plaza 438,Northeast,Austin,Express,2022-03-11
+S439,Store_Hub 439,Midwest,Phoenix,Superstore,2020-04-01
+S440,Store_Center 440,West,Houston,Compact,2016-10-27
+S441,Store_Market 441,Central,Philadelphia,Flagship,2018-10-12
+S442,Store_Center 442,West,Philadelphia,Superstore,2022-03-01
+S443,Store_Market 443,Southeast,Portland,Compact,2015-12-22
+S444,Store_Market 444,South,Philadelphia,Standard,2020-05-09
+S445,Store_Center 445,West,New York,Compact,2019-04-21
+S446,Store_Mall 446,Midwest,Dallas,Compact,2018-05-21
+S447,Store_Hub 447,North,Dallas,Compact,2022-10-08
+S448,Store_Mall 448,North,Houston,Express,2018-06-10
+S449,Store_Mall 449,Southeast,Portland,Compact,2022-09-28
+S450,Store_Plaza 450,Central,Seattle,Superstore,2017-06-23
+S451,Store_Mall 451,East,Detroit,Standard,2020-02-07
+S452,Store_Hub 452,Northeast,Miami,Superstore,2020-04-12
+S453,Store_Hub 453,West,San Diego,Superstore,2015-12-02
+S454,Store_Hub 454,Midwest,Portland,Compact,2015-11-16
+S455,Store_Hub 455,South,Los Angeles,Superstore,2020-09-01
+S456,Store_Mall 456,East,Philadelphia,Compact,2020-11-01
+S457,Store_Market 457,South,San Antonio,Superstore,2020-06-25
+S458,Store_Plaza 458,Midwest,Los Angeles,Express,2016-06-24
+S459,Store_Hub 459,Southeast,Atlanta,Superstore,2015-08-25
+S460,Store_Hub 460,Midwest,Austin,Flagship,2019-06-10
+S461,Store_Center 461,North,San Antonio,Superstore,2015-10-27
+S462,Store_Plaza 462,Southeast,Seattle,Flagship,2021-01-25
+S463,Store_Plaza 463,South,Detroit,Flagship,2018-03-21
+S464,Store_Market 464,East,Phoenix,Express,2019-03-14
+S465,Store_Market 465,Midwest,Denver,Express,2015-11-25
+S466,Store_Hub 466,East,Seattle,Flagship,2017-01-01
+S467,Store_Hub 467,Southeast,Portland,Standard,2023-03-01
+S468,Store_Mall 468,North,New York,Compact,2020-03-11
+S469,Store_Hub 469,Southeast,Las Vegas,Express,2017-07-29
+S470,Store_Mall 470,Midwest,Seattle,Standard,2018-02-03
+S471,Store_Mall 471,South,Los Angeles,Express,2021-11-23
+S472,Store_Plaza 472,West,San Antonio,Flagship,2016-02-18
+S473,Store_Hub 473,North,Atlanta,Superstore,2022-07-15
+S474,Store_Plaza 474,West,Los Angeles,Express,2019-12-03
+S475,Store_Mall 475,West,Los Angeles,Standard,2020-08-25
+S476,Store_Center 476,West,Boston,Superstore,2021-09-15
+S477,Store_Center 477,West,Austin,Standard,2022-05-28
+S478,Store_Hub 478,West,Miami,Compact,2018-02-01
+S479,Store_Plaza 479,East,Miami,Superstore,2020-07-23
+S480,Store_Plaza 480,Northeast,Denver,Superstore,2018-07-29
+S481,Store_Market 481,Southeast,Phoenix,Compact,2019-03-22
+S482,Store_Mall 482,Midwest,San Diego,Standard,2018-05-16
+S483,Store_Mall 483,Midwest,Los Angeles,Superstore,2019-08-18
+S484,Store_Market 484,East,Denver,Standard,2017-11-10
+S485,Store_Mall 485,Northeast,Chicago,Express,2019-02-28
+S486,Store_Plaza 486,West,Los Angeles,Compact,2019-03-25
+S487,Store_Hub 487,North,Chicago,Standard,2021-08-03
+S488,Store_Hub 488,West,Detroit,Standard,2018-09-25
+S489,Store_Center 489,North,San Antonio,Standard,2016-04-25
+S490,Store_Market 490,West,San Antonio,Express,2017-09-07
+S491,Store_Hub 491,Northeast,Austin,Express,2020-03-24
+S492,Store_Hub 492,Northeast,Austin,Compact,2019-01-13
+S493,Store_Hub 493,Midwest,Atlanta,Flagship,2023-02-07
+S494,Store_Market 494,Northeast,San Antonio,Compact,2018-07-05
+S495,Store_Market 495,North,San Diego,Standard,2015-03-08
+S496,Store_Center 496,Southeast,Austin,Standard,2017-03-14
+S497,Store_Center 497,West,Denver,Superstore,2017-10-03
+S498,Store_Market 498,Northeast,Dallas,Express,2023-02-11
+S499,Store_Market 499,Midwest,Philadelphia,Compact,2016-11-24
+S500,Store_Mall 500,Midwest,Philadelphia,Superstore,2022-03-13

@@ -1,0 +1,501 @@
+CustomerID,CustomerName,AgeGroup,MembershipTier,City,SignupDate
+C001,Thomas Anderson,45-54,Bronze,San Diego,2020-03-29
+C002,David Hall,55+,Silver,Phoenix,2023-07-13
+C003,Joseph Johnson,55+,Silver,Los Angeles,2020-12-06
+C004,James Anderson,55+,Platinum,New York,2024-01-13
+C005,Betty Lee,18-24,Silver,Atlanta,2023-05-27
+C006,Susan Clark,25-34,Silver,Miami,2023-05-15
+C007,David Hall,25-34,Gold,Philadelphia,2024-01-23
+C008,Nancy White,45-54,Bronze,San Diego,2022-02-13
+C009,William Wilson,18-24,Bronze,San Antonio,2022-12-06
+C010,Sandra Lewis,45-54,Silver,Houston,2020-12-29
+C011,Susan Allen,55+,Bronze,Las Vegas,2022-10-27
+C012,Daniel Davis,18-24,Platinum,Phoenix,2023-05-20
+C013,Jessica Smith,45-54,Platinum,Seattle,2020-03-29
+C014,Christopher Lewis,45-54,Silver,Detroit,2024-04-23
+C015,William Harris,55+,Bronze,Miami,2020-10-01
+C016,James Clark,25-34,Bronze,Austin,2023-05-10
+C017,Anthony Walker,45-54,Gold,San Antonio,2020-01-12
+C018,Christopher Smith,55+,Bronze,Portland,2020-01-15
+C019,William Taylor,35-44,Platinum,Seattle,2020-08-06
+C020,David Thompson,55+,Gold,Dallas,2023-01-02
+C021,Linda Hall,35-44,Gold,Denver,2024-03-26
+C022,Robert Thompson,55+,Platinum,Philadelphia,2022-01-28
+C023,Jessica Walker,45-54,Gold,Austin,2023-03-29
+C024,Jennifer Martin,25-34,Bronze,San Diego,2022-07-03
+C025,Margaret Anderson,18-24,Silver,Portland,2022-03-31
+C026,Margaret White,55+,Bronze,Philadelphia,2022-03-07
+C027,Charles Smith,18-24,Silver,Detroit,2023-05-14
+C028,Linda Brown,18-24,Gold,San Diego,2022-01-29
+C029,Mike Allen,18-24,Platinum,Denver,2023-06-11
+C030,Charles Lewis,35-44,Bronze,Philadelphia,2023-08-04
+C031,Susan Robinson,18-24,Silver,Portland,2021-08-08
+C032,Robert Johnson,55+,Silver,Philadelphia,2023-10-12
+C033,Sarah Harris,25-34,Bronze,Philadelphia,2020-06-26
+C034,James Martin,35-44,Platinum,Denver,2023-04-15
+C035,Robert Lewis,18-24,Bronze,Chicago,2023-01-30
+C036,Patricia Walker,55+,Gold,Seattle,2021-07-20
+C037,Maria Allen,25-34,Platinum,Denver,2023-03-23
+C038,John Martinez,25-34,Platinum,Portland,2020-08-06
+C039,Jessica Brown,55+,Gold,Boston,2020-08-27
+C040,Margaret Lewis,35-44,Gold,Atlanta,2022-02-11
+C041,Thomas Clark,25-34,Gold,Atlanta,2023-10-27
+C042,Richard Hall,18-24,Platinum,Houston,2021-06-12
+C043,Mike Martin,25-34,Silver,Boston,2022-04-24
+C044,Jennifer Lewis,55+,Bronze,Dallas,2021-05-23
+C045,Patricia Brown,45-54,Gold,Chicago,2023-02-09
+C046,Ashley Anderson,45-54,Gold,Seattle,2021-03-23
+C047,Anthony Hall,35-44,Silver,San Antonio,2022-10-18
+C048,Betty Taylor,25-34,Silver,Dallas,2021-02-27
+C049,Maria Taylor,25-34,Gold,Phoenix,2024-05-14
+C050,Emily Davis,18-24,Platinum,New York,2024-04-14
+C051,Sandra Walker,18-24,Platinum,Seattle,2023-06-25
+C052,Michael Clark,55+,Gold,Detroit,2021-01-09
+C053,Daniel Lewis,35-44,Platinum,San Diego,2024-03-16
+C054,Thomas Wilson,18-24,Platinum,Detroit,2023-01-12
+C055,Sarah Lewis,35-44,Platinum,Philadelphia,2022-07-25
+C056,Emily Lewis,45-54,Gold,New York,2020-01-25
+C057,Nancy Taylor,45-54,Bronze,Boston,2022-01-10
+C058,Karen Martinez,25-34,Gold,San Diego,2021-07-05
+C059,Susan Allen,35-44,Gold,Philadelphia,2022-10-18
+C060,Linda Taylor,45-54,Gold,Seattle,2022-03-31
+C061,James Robinson,25-34,Silver,San Diego,2020-07-23
+C062,Betty Martinez,25-34,Platinum,Denver,2021-02-05
+C063,David Wilson,45-54,Bronze,Philadelphia,2022-05-13
+C064,Susan Wilson,55+,Gold,Detroit,2021-09-06
+C065,James Walker,55+,Bronze,Denver,2020-07-21
+C066,Christopher Anderson,18-24,Silver,Dallas,2022-09-02
+C067,Matthew Davis,45-54,Gold,Dallas,2022-01-09
+C068,Jennifer Walker,55+,Gold,Seattle,2020-02-10
+C069,Linda Davis,35-44,Silver,Las Vegas,2020-12-23
+C070,Daniel Lee,35-44,Gold,Portland,2022-09-25
+C071,Daniel Robinson,18-24,Platinum,Austin,2022-08-07
+C072,Charles Wilson,25-34,Gold,Miami,2023-07-16
+C073,Karen Hall,45-54,Bronze,Chicago,2020-11-27
+C074,Michael Garcia,35-44,Gold,Austin,2023-12-25
+C075,James Allen,45-54,Gold,Atlanta,2024-05-18
+C076,Sandra Harris,55+,Platinum,Miami,2020-12-08
+C077,Lisa Smith,25-34,Silver,Dallas,2024-03-03
+C078,Christopher Brown,25-34,Silver,Denver,2020-07-29
+C079,Emily Brown,45-54,Bronze,New York,2024-04-27
+C080,William Lewis,18-24,Bronze,Dallas,2023-06-19
+C081,David Brown,45-54,Gold,San Diego,2021-05-21
+C082,Betty Lee,45-54,Silver,Phoenix,2022-12-14
+C083,Matthew Anderson,18-24,Bronze,Seattle,2021-10-28
+C084,Sandra Clark,45-54,Gold,Las Vegas,2022-06-30
+C085,David Walker,25-34,Platinum,Miami,2022-12-08
+C086,Charles Walker,35-44,Gold,Detroit,2023-01-10
+C087,Maria Brown,45-54,Gold,Seattle,2022-04-24
+C088,James Wilson,35-44,Bronze,New York,2022-12-07
+C089,Matthew Wilson,35-44,Gold,Detroit,2022-12-31
+C090,John Clark,45-54,Gold,New York,2024-04-17
+C091,Linda Lee,55+,Silver,New York,2023-01-27
+C092,Jennifer Taylor,45-54,Platinum,Denver,2021-05-26
+C093,Lisa Martin,45-54,Silver,Dallas,2020-06-11
+C094,Linda Garcia,55+,Gold,Austin,2023-08-21
+C095,Betty Walker,35-44,Platinum,San Antonio,2020-05-20
+C096,Lisa Wilson,35-44,Bronze,Atlanta,2023-06-19
+C097,Richard Martinez,55+,Platinum,San Antonio,2021-10-18
+C098,John Wilson,18-24,Bronze,Philadelphia,2020-07-28
+C099,Patricia Martinez,25-34,Platinum,New York,2021-04-21
+C100,Mike Wilson,18-24,Platinum,San Antonio,2021-12-01
+C101,Linda Lee,45-54,Gold,Atlanta,2023-11-28
+C102,Margaret Johnson,35-44,Bronze,Phoenix,2020-04-24
+C103,James Martin,18-24,Platinum,Philadelphia,2021-01-28
+C104,Anthony Martinez,45-54,Bronze,Houston,2024-04-22
+C105,Christopher Garcia,45-54,Platinum,San Diego,2024-02-19
+C106,Sarah Taylor,45-54,Bronze,Portland,2023-09-25
+C107,Robert Clark,45-54,Gold,Boston,2020-11-20
+C108,Charles Johnson,55+,Bronze,Dallas,2022-09-12
+C109,Charles Lee,25-34,Gold,Los Angeles,2023-09-27
+C110,Robert Davis,25-34,Platinum,Boston,2020-01-31
+C111,Lisa Martinez,55+,Bronze,Denver,2021-05-12
+C112,John Johnson,55+,Platinum,Phoenix,2022-01-30
+C113,Daniel Brown,25-34,Silver,Detroit,2020-07-06
+C114,Nancy Allen,35-44,Bronze,Los Angeles,2021-12-29
+C115,Charles Wilson,55+,Bronze,Phoenix,2022-09-26
+C116,Maria White,55+,Gold,Atlanta,2024-02-10
+C117,Robert Smith,45-54,Gold,Phoenix,2021-05-28
+C118,Anthony Johnson,45-54,Platinum,Las Vegas,2021-08-26
+C119,Jessica Clark,25-34,Silver,Las Vegas,2021-12-13
+C120,Michael Robinson,35-44,Silver,Chicago,2022-12-23
+C121,David Robinson,35-44,Gold,Las Vegas,2022-01-21
+C122,Richard Smith,55+,Platinum,Philadelphia,2020-02-08
+C123,Karen Harris,55+,Silver,Boston,2024-01-16
+C124,Mike Walker,45-54,Silver,Portland,2023-10-31
+C125,Susan Walker,25-34,Gold,Boston,2022-04-19
+C126,Charles White,18-24,Bronze,Portland,2023-09-11
+C127,Mike Johnson,25-34,Silver,Los Angeles,2021-02-17
+C128,Emily Clark,25-34,Bronze,Los Angeles,2023-03-15
+C129,Charles Martin,45-54,Gold,Los Angeles,2022-01-20
+C130,Maria Allen,18-24,Bronze,San Antonio,2023-09-04
+C131,Susan Brown,45-54,Bronze,Seattle,2023-02-16
+C132,Betty Thompson,35-44,Bronze,Dallas,2022-12-19
+C133,Sarah Brown,35-44,Bronze,San Antonio,2022-11-29
+C134,Emily Davis,25-34,Platinum,San Antonio,2021-01-30
+C135,Joseph Garcia,55+,Silver,Las Vegas,2024-03-14
+C136,Jessica Thompson,18-24,Gold,Atlanta,2023-12-09
+C137,Nancy Thompson,18-24,Silver,Philadelphia,2023-01-31
+C138,William Lewis,35-44,Silver,Las Vegas,2023-05-13
+C139,Richard Harris,35-44,Gold,Seattle,2022-04-24
+C140,Daniel Thompson,35-44,Silver,Las Vegas,2021-03-14
+C141,William Walker,35-44,Gold,Atlanta,2022-07-05
+C142,William Smith,18-24,Gold,New York,2022-11-26
+C143,David Lee,18-24,Gold,San Diego,2021-03-15
+C144,Sandra White,18-24,Gold,Las Vegas,2022-11-13
+C145,Jessica Hall,55+,Silver,Houston,2020-03-18
+C146,Richard Harris,25-34,Silver,Dallas,2022-01-21
+C147,Anthony Hall,25-34,Silver,Dallas,2021-09-07
+C148,Mike Hall,45-54,Silver,Chicago,2024-01-21
+C149,Michael Clark,25-34,Platinum,Houston,2023-05-04
+C150,Charles Lee,18-24,Platinum,Chicago,2024-05-16
+C151,Sarah White,35-44,Platinum,Miami,2020-09-03
+C152,Sandra Garcia,55+,Bronze,Denver,2020-04-20
+C153,Patricia Lewis,18-24,Gold,Las Vegas,2023-03-02
+C154,David White,55+,Silver,Phoenix,2020-04-13
+C155,Nancy Martin,45-54,Bronze,San Diego,2022-06-03
+C156,Patricia Martin,25-34,Silver,Boston,2020-06-18
+C157,Susan Hall,18-24,Platinum,Dallas,2020-06-23
+C158,William Lewis,45-54,Silver,Phoenix,2022-09-11
+C159,Jessica Taylor,45-54,Platinum,San Antonio,2023-02-23
+C160,Karen Lewis,25-34,Silver,Chicago,2021-06-29
+C161,Daniel Thompson,35-44,Bronze,Houston,2023-10-07
+C162,Linda Thompson,35-44,Gold,San Antonio,2021-10-18
+C163,Jennifer Allen,18-24,Gold,Philadelphia,2021-12-17
+C164,Karen Robinson,55+,Silver,Atlanta,2020-04-01
+C165,Ashley Garcia,25-34,Gold,Phoenix,2024-03-31
+C166,Betty Brown,18-24,Bronze,San Diego,2023-06-25
+C167,Ashley Wilson,35-44,Bronze,Boston,2023-11-21
+C168,Margaret Davis,35-44,Platinum,Detroit,2020-02-16
+C169,Michael Taylor,55+,Silver,San Antonio,2023-01-24
+C170,Joseph Martinez,55+,Platinum,Phoenix,2023-11-24
+C171,Christopher Smith,45-54,Bronze,Dallas,2020-12-14
+C172,Sarah Lee,25-34,Gold,Los Angeles,2022-08-10
+C173,Charles Smith,18-24,Platinum,Dallas,2023-09-19
+C174,Sandra Harris,18-24,Bronze,Austin,2023-08-22
+C175,William Garcia,45-54,Bronze,Boston,2022-09-19
+C176,Sandra Allen,55+,Bronze,Philadelphia,2021-02-11
+C177,Joseph Robinson,55+,Bronze,Los Angeles,2021-05-21
+C178,Ashley Lewis,35-44,Gold,Detroit,2022-03-16
+C179,Betty Anderson,18-24,Gold,Seattle,2021-12-28
+C180,Charles Lee,25-34,Gold,Los Angeles,2023-07-05
+C181,James Martin,18-24,Gold,San Diego,2020-11-06
+C182,Michael Martin,25-34,Bronze,Denver,2022-12-02
+C183,Nancy Allen,25-34,Platinum,San Diego,2023-03-19
+C184,David Thompson,35-44,Gold,Atlanta,2023-01-15
+C185,David Taylor,25-34,Silver,Phoenix,2021-09-24
+C186,Christopher Lewis,25-34,Platinum,Phoenix,2023-09-05
+C187,Ashley Hall,25-34,Gold,Chicago,2023-02-15
+C188,Jessica Davis,25-34,Gold,Phoenix,2024-01-29
+C189,John White,45-54,Platinum,Austin,2022-06-26
+C190,Betty Martinez,25-34,Silver,Houston,2020-09-26
+C191,Lisa Smith,55+,Gold,San Diego,2023-05-06
+C192,Maria Garcia,18-24,Gold,Chicago,2023-11-10
+C193,Daniel Clark,25-34,Platinum,Seattle,2021-01-11
+C194,Sandra Martin,45-54,Platinum,Phoenix,2020-12-01
+C195,Robert Garcia,18-24,Platinum,New York,2021-07-06
+C196,Linda Garcia,25-34,Silver,Chicago,2020-12-28
+C197,Ashley Robinson,55+,Platinum,Boston,2022-07-26
+C198,Anthony Garcia,45-54,Platinum,Los Angeles,2023-05-30
+C199,Betty Martin,35-44,Platinum,Las Vegas,2022-12-11
+C200,Charles Johnson,55+,Bronze,Atlanta,2022-07-24
+C201,Matthew Johnson,25-34,Platinum,Los Angeles,2023-02-16
+C202,William Lewis,18-24,Silver,Austin,2022-06-19
+C203,William Lee,35-44,Platinum,Philadelphia,2022-05-15
+C204,Patricia Allen,18-24,Silver,Atlanta,2023-08-16
+C205,Richard Brown,55+,Bronze,Philadelphia,2024-05-13
+C206,Thomas Walker,25-34,Platinum,Miami,2021-10-24
+C207,Richard Smith,25-34,Platinum,San Antonio,2022-07-20
+C208,Mike Martinez,35-44,Silver,Houston,2020-07-05
+C209,Emily Robinson,35-44,Bronze,Portland,2023-12-19
+C210,William Lewis,55+,Silver,Denver,2023-02-01
+C211,William Johnson,25-34,Gold,Phoenix,2020-11-28
+C212,Sandra Wilson,25-34,Bronze,Miami,2021-09-22
+C213,Patricia Robinson,35-44,Silver,Houston,2020-09-26
+C214,Robert Smith,55+,Gold,New York,2022-07-28
+C215,Susan Clark,55+,Bronze,Detroit,2021-05-02
+C216,Robert Hall,45-54,Platinum,Miami,2022-06-23
+C217,Mike Allen,55+,Bronze,San Diego,2023-01-25
+C218,James Allen,55+,Silver,Los Angeles,2021-01-13
+C219,David Johnson,35-44,Bronze,Phoenix,2020-03-07
+C220,Nancy Hall,55+,Gold,Boston,2020-06-28
+C221,Sarah Davis,45-54,Silver,Philadelphia,2023-10-08
+C222,Patricia Allen,55+,Silver,Atlanta,2024-03-14
+C223,Thomas Harris,18-24,Bronze,Austin,2021-10-23
+C224,Jennifer Martin,18-24,Platinum,Las Vegas,2020-05-12
+C225,Patricia Clark,25-34,Bronze,Dallas,2021-11-05
+C226,Joseph Thompson,55+,Silver,San Antonio,2023-06-07
+C227,Sarah Davis,55+,Bronze,Detroit,2024-01-22
+C228,Christopher Allen,35-44,Platinum,Boston,2021-06-15
+C229,Joseph Hall,55+,Gold,Phoenix,2023-06-12
+C230,Thomas Clark,55+,Platinum,Detroit,2021-01-03
+C231,Anthony Allen,25-34,Gold,San Antonio,2020-01-04
+C232,Emily Smith,45-54,Bronze,San Antonio,2023-06-14
+C233,Linda Thompson,18-24,Gold,Seattle,2023-02-21
+C234,Margaret Taylor,18-24,Silver,Austin,2021-06-05
+C235,Margaret Brown,35-44,Gold,Portland,2023-01-31
+C236,Michael Smith,18-24,Gold,Boston,2022-03-22
+C237,Betty Hall,55+,Bronze,Philadelphia,2021-02-01
+C238,Michael White,45-54,Platinum,Los Angeles,2023-08-15
+C239,David Clark,25-34,Platinum,Las Vegas,2021-11-17
+C240,Richard Thompson,18-24,Gold,Boston,2023-02-11
+C241,Jessica Smith,25-34,Gold,Seattle,2020-05-15
+C242,David Martinez,18-24,Gold,Denver,2023-07-07
+C243,Jessica Anderson,55+,Platinum,Philadelphia,2023-05-03
+C244,Emily Lee,35-44,Bronze,Dallas,2022-04-27
+C245,Mike Clark,25-34,Gold,Atlanta,2021-09-11
+C246,Robert Lewis,35-44,Silver,Houston,2022-02-05
+C247,Margaret Johnson,25-34,Bronze,Atlanta,2022-11-02
+C248,John Clark,55+,Silver,San Antonio,2021-11-27
+C249,Ashley Clark,55+,Gold,Boston,2020-10-20
+C250,Daniel Davis,55+,Silver,San Antonio,2024-01-23
+C251,Sarah Robinson,45-54,Bronze,New York,2021-09-28
+C252,Ashley Johnson,55+,Bronze,Boston,2022-08-14
+C253,Anthony Johnson,18-24,Gold,New York,2023-03-28
+C254,Daniel Lee,25-34,Gold,San Antonio,2021-01-29
+C255,Patricia Martinez,55+,Gold,Atlanta,2023-10-06
+C256,Emily Martinez,25-34,Silver,Dallas,2020-08-22
+C257,John Allen,55+,Bronze,San Antonio,2023-01-16
+C258,Jennifer Walker,35-44,Gold,Phoenix,2023-12-13
+C259,Margaret Lee,55+,Silver,Philadelphia,2020-05-25
+C260,Patricia Allen,35-44,Platinum,Los Angeles,2020-09-23
+C261,John Clark,18-24,Bronze,Denver,2020-04-20
+C262,Mike Thompson,45-54,Silver,Atlanta,2023-06-16
+C263,Jennifer Lee,35-44,Silver,Las Vegas,2020-06-09
+C264,Ashley Robinson,55+,Silver,Chicago,2023-12-01
+C265,Richard Davis,45-54,Gold,Atlanta,2022-08-21
+C266,Maria Garcia,25-34,Gold,Seattle,2022-03-13
+C267,Lisa White,35-44,Platinum,Detroit,2020-03-02
+C268,Mike Clark,18-24,Gold,Detroit,2022-08-02
+C269,Sandra Anderson,35-44,Gold,Phoenix,2022-11-06
+C270,Emily Martin,18-24,Gold,Las Vegas,2023-08-23
+C271,Mike Lee,55+,Platinum,Denver,2023-04-24
+C272,Linda Garcia,55+,Silver,Las Vegas,2020-11-21
+C273,Susan Martin,18-24,Gold,San Antonio,2023-11-22
+C274,Thomas Thompson,45-54,Gold,Las Vegas,2023-11-22
+C275,Maria Anderson,18-24,Platinum,Houston,2023-04-27
+C276,Karen Robinson,35-44,Bronze,Atlanta,2020-12-26
+C277,Patricia Martin,18-24,Bronze,Denver,2021-11-01
+C278,Susan Johnson,18-24,Silver,Phoenix,2023-04-04
+C279,Anthony Smith,25-34,Silver,Atlanta,2022-12-24
+C280,Patricia Martin,55+,Platinum,San Antonio,2021-02-25
+C281,Nancy White,35-44,Gold,Miami,2024-01-10
+C282,Ashley Harris,18-24,Bronze,Portland,2022-04-07
+C283,Sandra Wilson,35-44,Bronze,Seattle,2023-01-29
+C284,Sarah Smith,55+,Gold,Houston,2021-07-31
+C285,Sandra Smith,25-34,Platinum,Denver,2023-07-04
+C286,Michael Martin,45-54,Platinum,Miami,2023-01-21
+C287,Robert Anderson,45-54,Silver,San Antonio,2023-02-11
+C288,William Harris,45-54,Silver,Austin,2023-10-04
+C289,David Wilson,18-24,Bronze,New York,2020-10-21
+C290,Betty Clark,45-54,Silver,Chicago,2020-10-08
+C291,Charles Thompson,45-54,Platinum,Philadelphia,2022-07-19
+C292,Joseph Thompson,55+,Platinum,Denver,2021-12-28
+C293,Maria Anderson,45-54,Bronze,Detroit,2024-02-05
+C294,Maria Lewis,35-44,Platinum,Las Vegas,2023-03-26
+C295,Jennifer Johnson,18-24,Platinum,Seattle,2020-08-19
+C296,Thomas Clark,18-24,Silver,Portland,2024-03-17
+C297,Daniel Martinez,45-54,Bronze,Portland,2023-06-03
+C298,Mike Garcia,45-54,Bronze,Las Vegas,2023-04-02
+C299,Patricia Allen,18-24,Gold,Las Vegas,2024-05-13
+C300,John Clark,45-54,Platinum,Boston,2022-05-12
+C301,Jennifer Lee,35-44,Silver,Los Angeles,2023-11-24
+C302,Ashley Allen,35-44,Gold,Los Angeles,2023-07-12
+C303,Susan Hall,25-34,Bronze,Austin,2024-02-19
+C304,Karen Smith,35-44,Platinum,Chicago,2020-09-16
+C305,Joseph Brown,35-44,Gold,Phoenix,2023-06-15
+C306,James Martinez,35-44,Bronze,Houston,2023-05-21
+C307,Lisa Hall,25-34,Platinum,Seattle,2020-12-25
+C308,James Garcia,45-54,Silver,Portland,2020-03-08
+C309,Michael Brown,25-34,Silver,Detroit,2024-03-21
+C310,Linda Martin,25-34,Platinum,Philadelphia,2021-03-07
+C311,Thomas Harris,18-24,Gold,Houston,2020-04-17
+C312,Lisa Robinson,45-54,Platinum,Austin,2022-09-02
+C313,Betty Walker,25-34,Platinum,Denver,2022-08-29
+C314,James Wilson,55+,Platinum,New York,2021-08-14
+C315,Ashley Robinson,45-54,Gold,Portland,2023-10-30
+C316,Sarah Davis,55+,Gold,Miami,2023-06-04
+C317,Ashley Martinez,35-44,Gold,Dallas,2020-07-20
+C318,James Hall,45-54,Platinum,San Diego,2024-02-12
+C319,Nancy Hall,25-34,Gold,Philadelphia,2021-10-03
+C320,Jessica Smith,18-24,Bronze,New York,2022-04-22
+C321,Emily Lewis,18-24,Platinum,Seattle,2021-03-25
+C322,Betty Lee,35-44,Silver,Los Angeles,2020-02-18
+C323,Karen Brown,18-24,Silver,Houston,2023-12-21
+C324,Emily Brown,55+,Silver,Denver,2023-09-06
+C325,Daniel Hall,25-34,Bronze,Philadelphia,2021-06-02
+C326,Patricia Robinson,18-24,Platinum,Dallas,2024-04-24
+C327,Linda White,35-44,Silver,Chicago,2021-07-21
+C328,Daniel Johnson,45-54,Platinum,Boston,2020-05-03
+C329,James Martinez,25-34,Platinum,Chicago,2022-10-04
+C330,Ashley Taylor,55+,Platinum,Philadelphia,2023-08-14
+C331,Susan Davis,25-34,Platinum,San Antonio,2023-06-11
+C332,Charles Davis,45-54,Gold,Houston,2020-03-12
+C333,Mike Brown,55+,Gold,Atlanta,2020-02-08
+C334,Anthony Clark,25-34,Bronze,Los Angeles,2023-09-23
+C335,William Martinez,25-34,Gold,Denver,2023-03-22
+C336,John Lewis,45-54,Platinum,Miami,2022-04-07
+C337,Sandra Brown,55+,Silver,New York,2022-02-26
+C338,Christopher Clark,18-24,Gold,Boston,2023-10-28
+C339,Patricia Martin,18-24,Bronze,Seattle,2022-12-30
+C340,Sandra White,18-24,Platinum,Austin,2023-08-19
+C341,Robert Anderson,55+,Bronze,Denver,2023-09-15
+C342,Robert Lee,45-54,Bronze,Seattle,2022-09-23
+C343,Mike Robinson,25-34,Silver,Los Angeles,2021-01-30
+C344,John Hall,25-34,Platinum,Denver,2020-05-09
+C345,Margaret Walker,35-44,Platinum,Las Vegas,2022-07-09
+C346,John Johnson,35-44,Bronze,Boston,2024-01-16
+C347,Sarah Martin,18-24,Silver,Portland,2022-07-27
+C348,Nancy Walker,25-34,Silver,Chicago,2020-03-16
+C349,Betty Wilson,45-54,Bronze,Detroit,2023-06-20
+C350,Sarah Garcia,25-34,Bronze,Philadelphia,2023-07-19
+C351,Sarah Lee,18-24,Platinum,Philadelphia,2023-04-25
+C352,Mike Davis,18-24,Platinum,San Diego,2020-05-09
+C353,Margaret Taylor,45-54,Gold,Denver,2021-10-26
+C354,Emily Hall,55+,Silver,Boston,2021-03-12
+C355,Daniel Johnson,55+,Silver,Boston,2020-05-09
+C356,Emily Martinez,25-34,Platinum,Philadelphia,2023-11-27
+C357,Jennifer Walker,25-34,Platinum,San Diego,2023-04-06
+C358,Sarah Wilson,18-24,Platinum,Philadelphia,2020-02-02
+C359,Anthony Clark,18-24,Bronze,New York,2021-01-02
+C360,Ashley Brown,55+,Gold,Miami,2023-11-21
+C361,Margaret Clark,25-34,Silver,Phoenix,2023-08-03
+C362,James Lewis,45-54,Platinum,San Diego,2020-12-23
+C363,Karen Johnson,55+,Silver,Detroit,2023-06-07
+C364,Mike Lee,35-44,Platinum,New York,2023-02-16
+C365,Maria Taylor,18-24,Bronze,Seattle,2024-04-07
+C366,Jessica Lewis,25-34,Platinum,San Antonio,2021-07-20
+C367,Sarah Taylor,18-24,Silver,Detroit,2022-10-15
+C368,Lisa Anderson,18-24,Bronze,Seattle,2021-08-06
+C369,Robert Thompson,35-44,Gold,Atlanta,2020-03-29
+C370,Emily Johnson,55+,Silver,Philadelphia,2020-02-29
+C371,Susan Lewis,18-24,Bronze,San Diego,2024-01-17
+C372,Richard Hall,55+,Gold,Miami,2021-02-11
+C373,Betty White,25-34,Bronze,Boston,2021-04-11
+C374,Emily Garcia,45-54,Silver,Denver,2021-03-27
+C375,Mike Clark,55+,Platinum,Los Angeles,2022-06-11
+C376,David Taylor,55+,Platinum,Philadelphia,2022-03-04
+C377,Jennifer Wilson,45-54,Silver,Seattle,2021-07-06
+C378,Robert White,25-34,Bronze,Los Angeles,2021-07-28
+C379,David Davis,45-54,Platinum,Miami,2020-12-16
+C380,Daniel White,25-34,Gold,Philadelphia,2023-07-30
+C381,Karen Anderson,55+,Silver,Chicago,2022-04-23
+C382,Sandra Lewis,45-54,Silver,Detroit,2022-08-05
+C383,James Smith,45-54,Silver,San Diego,2021-11-01
+C384,Linda Hall,25-34,Silver,New York,2022-05-05
+C385,Sarah Johnson,45-54,Bronze,Miami,2022-12-23
+C386,William Clark,18-24,Platinum,Detroit,2021-05-07
+C387,Mike Walker,18-24,Platinum,San Antonio,2020-09-28
+C388,Jennifer Lee,25-34,Bronze,New York,2022-09-09
+C389,Nancy Lee,25-34,Platinum,New York,2022-07-20
+C390,Richard Wilson,45-54,Silver,Seattle,2023-07-07
+C391,Richard Smith,18-24,Platinum,Boston,2022-12-23
+C392,Sarah Lee,45-54,Gold,Las Vegas,2023-03-24
+C393,Margaret Taylor,18-24,Gold,Los Angeles,2022-11-20
+C394,Ashley Harris,18-24,Bronze,Denver,2022-01-18
+C395,Richard Allen,18-24,Gold,Seattle,2020-12-24
+C396,Charles Walker,18-24,Silver,Phoenix,2021-11-16
+C397,Maria Walker,18-24,Platinum,San Antonio,2024-03-22
+C398,Betty Garcia,35-44,Gold,Dallas,2022-10-28
+C399,Nancy Thompson,35-44,Bronze,Chicago,2022-02-02
+C400,Jennifer Robinson,45-54,Bronze,Detroit,2023-12-24
+C401,Jessica Walker,35-44,Platinum,Seattle,2023-10-10
+C402,Christopher Brown,25-34,Platinum,Chicago,2020-06-13
+C403,William Anderson,35-44,Bronze,Houston,2020-12-03
+C404,James Davis,25-34,Platinum,Phoenix,2021-02-22
+C405,Joseph Smith,35-44,Platinum,Las Vegas,2020-09-27
+C406,Susan Harris,45-54,Platinum,New York,2021-08-20
+C407,Robert Brown,18-24,Silver,Portland,2023-08-13
+C408,Michael Thompson,55+,Gold,Boston,2022-09-22
+C409,Thomas Lewis,55+,Platinum,Atlanta,2021-09-14
+C410,Thomas Wilson,35-44,Silver,Dallas,2021-04-09
+C411,Susan Harris,35-44,Bronze,Phoenix,2021-12-24
+C412,Patricia Robinson,25-34,Silver,Las Vegas,2021-08-07
+C413,Lisa Anderson,25-34,Silver,San Diego,2020-08-27
+C414,Sarah White,55+,Silver,Atlanta,2021-06-17
+C415,Jennifer Anderson,25-34,Bronze,Boston,2021-12-05
+C416,David Harris,45-54,Silver,Las Vegas,2021-09-09
+C417,Emily Smith,45-54,Platinum,Phoenix,2022-07-27
+C418,Ashley White,25-34,Bronze,Las Vegas,2022-11-05
+C419,Michael Lee,45-54,Gold,Phoenix,2023-03-03
+C420,Betty Robinson,35-44,Bronze,Detroit,2020-03-23
+C421,David Walker,18-24,Gold,New York,2022-04-02
+C422,Karen Garcia,45-54,Gold,Chicago,2021-10-30
+C423,Sarah Allen,25-34,Silver,Dallas,2021-02-04
+C424,John Brown,55+,Platinum,Chicago,2022-11-14
+C425,William Taylor,45-54,Gold,Portland,2020-04-24
+C426,Ashley Harris,45-54,Silver,Miami,2022-01-27
+C427,William Harris,18-24,Gold,Seattle,2021-12-20
+C428,Patricia Robinson,55+,Bronze,San Antonio,2024-01-30
+C429,Anthony Robinson,45-54,Platinum,Austin,2020-12-01
+C430,Margaret Thompson,45-54,Silver,Chicago,2020-10-21
+C431,Robert Lee,45-54,Gold,Chicago,2023-04-24
+C432,Daniel Martin,18-24,Bronze,Miami,2023-08-01
+C433,Ashley Martinez,45-54,Silver,Las Vegas,2022-08-04
+C434,Christopher Hall,25-34,Silver,Philadelphia,2022-02-20
+C435,Patricia Walker,45-54,Bronze,Austin,2023-04-13
+C436,Patricia Clark,55+,Platinum,San Diego,2020-02-24
+C437,Margaret Smith,25-34,Gold,Austin,2023-08-04
+C438,Matthew Clark,18-24,Gold,Miami,2021-01-02
+C439,Susan Garcia,18-24,Bronze,Dallas,2022-10-06
+C440,Mike Allen,35-44,Platinum,Miami,2021-06-12
+C441,Charles Clark,18-24,Gold,Portland,2024-02-10
+C442,Thomas Smith,35-44,Silver,Los Angeles,2020-10-26
+C443,Michael Robinson,25-34,Gold,Philadelphia,2020-04-18
+C444,James Harris,45-54,Gold,Los Angeles,2021-08-16
+C445,Patricia Lewis,18-24,Silver,Philadelphia,2024-04-15
+C446,Emily Allen,25-34,Gold,Boston,2023-11-03
+C447,Margaret Lee,35-44,Gold,Houston,2022-12-30
+C448,Thomas Harris,25-34,Bronze,Phoenix,2022-11-27
+C449,Patricia Harris,45-54,Platinum,Boston,2020-11-29
+C450,Emily Taylor,25-34,Silver,San Antonio,2023-02-18
+C451,Karen Lewis,55+,Bronze,Miami,2022-08-01
+C452,Ashley Brown,18-24,Silver,New York,2022-09-09
+C453,Jennifer Lee,35-44,Silver,Atlanta,2023-05-08
+C454,Joseph White,25-34,Gold,New York,2024-03-04
+C455,Matthew Davis,25-34,Silver,Phoenix,2023-11-10
+C456,Maria Lee,25-34,Silver,Phoenix,2020-06-09
+C457,Linda Davis,18-24,Bronze,Detroit,2024-03-31
+C458,Linda Johnson,25-34,Bronze,Los Angeles,2023-09-13
+C459,Joseph Hall,18-24,Platinum,Houston,2021-06-02
+C460,Sarah Brown,35-44,Bronze,Houston,2020-09-10
+C461,Ashley Allen,25-34,Silver,Philadelphia,2023-10-05
+C462,Jennifer Smith,18-24,Silver,Dallas,2023-04-02
+C463,Jennifer Harris,25-34,Silver,Portland,2023-03-13
+C464,Mike Davis,55+,Bronze,Portland,2021-03-20
+C465,Christopher Taylor,35-44,Silver,Las Vegas,2020-01-09
+C466,Betty Davis,25-34,Platinum,Seattle,2023-11-30
+C467,Thomas Anderson,45-54,Bronze,Philadelphia,2021-12-27
+C468,William Thompson,25-34,Silver,Miami,2020-08-19
+C469,Daniel White,18-24,Platinum,Houston,2022-11-30
+C470,David Clark,35-44,Gold,Las Vegas,2024-01-18
+C471,Sarah Brown,35-44,Platinum,Houston,2022-02-27
+C472,Patricia Robinson,55+,Gold,Atlanta,2021-04-07
+C473,Jessica Thompson,35-44,Platinum,San Antonio,2020-05-22
+C474,Anthony Clark,35-44,Silver,New York,2023-10-12
+C475,Susan Davis,45-54,Platinum,Portland,2023-09-10
+C476,Nancy Brown,18-24,Silver,Denver,2022-03-31
+C477,Christopher Hall,18-24,Silver,Chicago,2022-01-14
+C478,Robert White,25-34,Platinum,Houston,2021-04-21
+C479,Matthew Thompson,45-54,Gold,Dallas,2024-03-28
+C480,Margaret Martin,35-44,Platinum,Denver,2022-09-19
+C481,Joseph Martinez,25-34,Platinum,Houston,2020-09-07
+C482,James Clark,45-54,Silver,Phoenix,2020-03-01
+C483,Emily Johnson,18-24,Platinum,New York,2021-01-01
+C484,William Allen,35-44,Silver,Austin,2023-06-27
+C485,Karen Davis,18-24,Platinum,Atlanta,2021-02-17
+C486,Patricia Clark,45-54,Gold,Las Vegas,2021-12-04
+C487,Margaret Walker,55+,Bronze,Los Angeles,2022-05-31
+C488,Anthony Davis,45-54,Platinum,Boston,2022-02-09
+C489,Richard Robinson,18-24,Bronze,Philadelphia,2023-02-14
+C490,Nancy Lee,25-34,Platinum,Miami,2020-10-02
+C491,Patricia Martin,45-54,Bronze,Detroit,2023-09-13
+C492,Jessica Walker,55+,Platinum,Detroit,2023-02-25
+C493,Sandra Anderson,55+,Bronze,Denver,2021-06-23
+C494,Susan Hall,45-54,Gold,Austin,2021-10-18
+C495,Sarah Smith,55+,Bronze,Phoenix,2022-01-20
+C496,Jennifer Hall,18-24,Gold,Denver,2020-07-18
+C497,Linda Harris,35-44,Platinum,Seattle,2020-04-25
+C498,Nancy Garcia,25-34,Silver,Austin,2023-04-28
+C499,Mike Brown,35-44,Bronze,Boston,2020-12-13
+C500,John Walker,35-44,Bronze,Atlanta,2023-09-09
